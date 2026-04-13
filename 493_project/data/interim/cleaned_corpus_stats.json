@@ -1,0 +1,22 @@
+{
+  "original_rows": 13954,
+  "after_score_filter": 12503,
+  "after_empty_short_filter": 12503,
+  "unique_context_count": 240,
+  "source_distribution": {
+    "Türk Ceza Kanunu": 73,
+    "Türk Medeni Kanunu": 52,
+    "Ceza Muhakemesi Kanunu": 34,
+    "Türk Borçlar Kanunu": 30,
+    "Türkiye Cumhuriyeti Anayasası": 25,
+    "Türkiye Cumhuriyeti İş Kanunu": 15,
+    "Türk Bayrağı Tüzüğü": 6,
+    "Bilgi Edinme Kanunu": 5
+  },
+  "char_length_stats": {
+    "min": 541,
+    "max": 34503,
+    "mean": 5814.9375,
+    "median": 4579.0
+  }
+}
