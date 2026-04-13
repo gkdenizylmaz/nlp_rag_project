@@ -1,0 +1,2545 @@
+[
+  {
+    "id": "Q001",
+    "soru": "Anayasaya göre egemenlik kime aittir ve nasıl kullanılır?",
+    "cevap": "Egemenlik kayıtsız şartsız Milletindir. Türk Milleti egemenliğini, Anayasanın koyduğu esaslara göre, yetkili organları eliyle kullanır.",
+    "gold_context": "Anayasa Madde 6: Egemenlik kayıtsız şartsız Milletindir. Türk Milleti egemenliğini, Anayasanın koyduğu esaslara göre yetkili organları eliyle kullanır.",
+    "kaynak": "Anayasa Madde 6",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_6__chunk_000"
+    ]
+  },
+  {
+    "id": "Q002",
+    "soru": "Yasama yetkisi kime aittir ve devredilebilir mi?",
+    "cevap": "Yasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisinindir ve bu yetki devredilemez.",
+    "gold_context": "Anayasa Madde 7: Yasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisinindir. Bu yetki devredilemez.",
+    "kaynak": "Anayasa Madde 7",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_7__chunk_000"
+    ]
+  },
+  {
+    "id": "Q003",
+    "soru": "Yürütme yetkisi ve görevi kim tarafından ve nasıl yerine getirilir?",
+    "cevap": "Yürütme yetkisi ve görevi Cumhurbaşkanı tarafından Anayasaya ve kanunlara uygun olarak kullanılır ve yerine getirilir.",
+    "gold_context": "Anayasa Madde 8: Yürütme yetkisi ve görevi Cumhurbaşkanı tarafından Anayasaya ve kanunlara uygun olarak kullanılır ve yerine getirilir.",
+    "kaynak": "Anayasa Madde 8",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_8__chunk_000"
+    ]
+  },
+  {
+    "id": "Q004",
+    "soru": "Yargı yetkisi hangi ilkelere göre kullanılır?",
+    "cevap": "Yargı yetkisi Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.",
+    "gold_context": "Anayasa Madde 9: Yargı yetkisi Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.",
+    "kaynak": "Anayasa Madde 9",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_9__chunk_000"
+    ]
+  },
+  {
+    "id": "Q005",
+    "soru": "Kanun önünde eşitlik ilkesi hangi ayrımcılık türlerini yasaklar?",
+    "cevap": "Herkes dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin kanun önünde eşittir.",
+    "gold_context": "Anayasa Madde 10: Herkes, dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin kanun önünde eşittir.",
+    "kaynak": "Anayasa Madde 10",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_10__chunk_000"
+    ]
+  },
+  {
+    "id": "Q006",
+    "soru": "Anayasanın üstünlüğü ilkesi ne anlama gelir?",
+    "cevap": "Anayasa hükümleri yasama, yürütme ve yargı organlarını, idare makamlarını ve diğer kuruluş ve kişileri bağlar ve kanunlar Anayasaya aykırı olamaz.",
+    "gold_context": "Anayasa Madde 11: Anayasa hükümleri yasama, yürütme ve yargı organlarını, idare makamlarını ve diğer kuruluş ve kişileri bağlayan temel hukuk kurallarıdır. Kanunlar Anayasaya aykırı olamaz.",
+    "kaynak": "Anayasa Madde 11",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_11__chunk_000"
+    ]
+  },
+  {
+    "id": "Q007",
+    "soru": "Temel hak ve hürriyetler hangi şartlarla sınırlanabilir?",
+    "cevap": "Temel hak ve hürriyetler yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve kanunla sınırlanabilir; sınırlamalar demokratik toplum düzenine ve ölçülülük ilkesine aykırı olamaz.",
+    "gold_context": "Anayasa Madde 13: Temel hak ve hürriyetler yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir. Bu sınırlamalar Anayasanın sözüne ve ruhuna, demokratik toplum düzeninin gereklerine ve ölçülülük ilkesine aykırı olamaz.",
+    "kaynak": "Anayasa Madde 13",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_13__chunk_000"
+    ]
+  },
+  {
+    "id": "Q008",
+    "soru": "Suç ve cezalara ilişkin kanunilik ilkesi neyi ifade eder?",
+    "cevap": "Hiç kimse işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz.",
+    "gold_context": "Anayasa Madde 38: Kimse işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz.",
+    "kaynak": "Anayasa Madde 38",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__29c8035f55__madde_7__chunk_000"
+    ]
+  },
+  {
+    "id": "Q009",
+    "soru": "Hak arama hürriyeti kişilere hangi imkânları tanır?",
+    "cevap": "Herkes meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir.",
+    "gold_context": "Anayasa Madde 36: Herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir.",
+    "kaynak": "Anayasa Madde 36",
+    "difficulty": "medium",
+    "type": "application",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6b4ecad37d__madde_36__chunk_000"
+    ]
+  },
+  {
+    "id": "Q010",
+    "soru": "Özel hayatın gizliliği hakkı hangi korumaları içerir?",
+    "cevap": "Herkes özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına sahiptir ve özel hayatın gizliliğine dokunulamaz.",
+    "gold_context": "Anayasa Madde 20: Herkes özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına sahiptir. Özel hayatın ve aile hayatının gizliliğine dokunulamaz.",
+    "kaynak": "Anayasa Madde 20",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__f68418dfb7__madde_20__chunk_000"
+    ]
+  },
+  {
+    "id": "Q011",
+    "soru": "Türkiye Cumhuriyeti'nin devlet şekli Anayasaya göre nedir?",
+    "cevap": "Türkiye Devleti bir Cumhuriyettir.",
+    "gold_context": "Anayasa Madde 1: Türkiye Devleti bir Cumhuriyettir.",
+    "kaynak": "Anayasa Madde 1",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_1__chunk_000"
+    ]
+  },
+  {
+    "id": "Q012",
+    "soru": "Cumhuriyetin nitelikleri nelerdir?",
+    "cevap": "Türkiye Cumhuriyeti, insan haklarına saygılı, demokratik, laik ve sosyal bir hukuk devletidir.",
+    "gold_context": "Anayasa Madde 2: Türkiye Cumhuriyeti, insan haklarına saygılı, demokratik, laik ve sosyal bir hukuk devletidir.",
+    "kaynak": "Anayasa Madde 2",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_2__chunk_000"
+    ]
+  },
+  {
+    "id": "Q013",
+    "soru": "Devletin bütünlüğü ve resmi dili Anayasaya göre nasıl belirlenmiştir?",
+    "cevap": "Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür ve dili Türkçedir.",
+    "gold_context": "Anayasa Madde 3: Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür. Dili Türkçedir.",
+    "kaynak": "Anayasa Madde 3",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_3__chunk_000"
+    ]
+  },
+  {
+    "id": "Q014",
+    "soru": "Anayasaya göre değiştirilmesi teklif dahi edilemeyen hükümler nelerdir?",
+    "cevap": "Anayasanın 1 inci maddesindeki devlet şeklinin Cumhuriyet olduğu hükmü ile 2 nci ve 3 üncü maddeleri değiştirilemez ve değiştirilmesi teklif edilemez.",
+    "gold_context": "Anayasa Madde 4: Anayasanın 1 inci maddesindeki devlet şeklinin Cumhuriyet olduğu hakkındaki hüküm ile 2 nci ve 3 üncü maddeleri değiştirilemez ve değiştirilmesi teklif edilemez.",
+    "kaynak": "Anayasa Madde 4",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_4__chunk_000"
+    ]
+  },
+  {
+    "id": "Q015",
+    "soru": "Devletin temel amaç ve görevleri nelerdir?",
+    "cevap": "Devletin temel amaç ve görevleri, Türk milletinin bağımsızlığını ve bütünlüğünü korumak, Cumhuriyeti ve demokrasiyi korumak ve kişilerin temel hak ve hürriyetlerini güvence altına almaktır.",
+    "gold_context": "Anayasa Madde 5: Devletin temel amaç ve görevleri, Türk milletinin bağımsızlığını ve bütünlüğünü, ülkenin bölünmezliğini korumak; Cumhuriyeti ve demokrasiyi korumak ve kişilerin temel hak ve hürriyetlerini güvence altına almaktır.",
+    "kaynak": "Anayasa Madde 5",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_5__chunk_000"
+    ]
+  },
+  {
+    "id": "Q016",
+    "soru": "Milletlerarası antlaşmaların Türk hukukundaki yeri nedir?",
+    "cevap": "Usulüne göre yürürlüğe konulmuş milletlerarası antlaşmalar kanun hükmündedir.",
+    "gold_context": "Anayasa Madde 90: Usulüne göre yürürlüğe konulmuş milletlerarası antlaşmalar kanun hükmündedir.",
+    "kaynak": "Anayasa Madde 90",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__12ae411bad__madde_90__chunk_001"
+    ]
+  },
+  {
+    "id": "Q017",
+    "soru": "Temel hak ve hürriyetlerin kötüye kullanılması neyi ifade eder?",
+    "cevap": "Temel hak ve hürriyetler, devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı veya demokratik ve laik Cumhuriyeti ortadan kaldırmayı amaçlayacak şekilde kullanılamaz.",
+    "gold_context": "Anayasa Madde 14: Anayasada yer alan hak ve hürriyetler, devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı ve demokratik ve laik Cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler biçiminde kullanılamaz.",
+    "kaynak": "Anayasa Madde 14",
+    "difficulty": "hard",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_14__chunk_000"
+    ]
+  },
+  {
+    "id": "Q018",
+    "soru": "Eğitim ve öğretim hakkı Anayasaya göre nasıl düzenlenmiştir?",
+    "cevap": "Eğitim ve öğretim Atatürk ilkeleri ve inkılapları doğrultusunda, devletin gözetim ve denetimi altında yapılır ve ilköğretim zorunlu ve parasızdır.",
+    "gold_context": "Anayasa Madde 42: Eğitim ve öğretim, Atatürk ilkeleri ve inkılapları doğrultusunda devletin gözetim ve denetimi altında yapılır. İlköğretim kız ve erkek bütün vatandaşlar için zorunludur ve devlet okullarında parasızdır.",
+    "kaynak": "Anayasa Madde 42",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__e2888f2cd8__madde_42__chunk_000"
+    ]
+  },
+  {
+    "id": "Q019",
+    "soru": "Dilekçe hakkı kimlere tanınmıştır?",
+    "cevap": "Vatandaşlar ve karşılıklılık esası gözetilmek kaydıyla Türkiye'de ikamet eden yabancılar dilekçe hakkına sahiptir.",
+    "gold_context": "Anayasa Madde 74: Vatandaşlar ve karşılıklılık esası gözetilmek kaydıyla Türkiye'de ikamet eden yabancılar... yetkili makamlara başvurma hakkına sahiptir.",
+    "kaynak": "Anayasa Madde 74",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "bilgi_edinme_kanunu__e10736fbfb__madde_4__chunk_000"
+    ]
+  },
+  {
+    "id": "Q020",
+    "soru": "Vatandaşlık Anayasaya göre nasıl tanımlanmıştır?",
+    "cevap": "Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür.",
+    "gold_context": "Anayasa Madde 66: Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür.",
+    "kaynak": "Anayasa Madde 66",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__71be93eeae__madde_66__chunk_000"
+    ]
+  },
+  {
+    "id": "Q021",
+    "soru": "Ceza hukukunda suçta ve cezada kanunilik ilkesi neyi ifade eder?",
+    "cevap": "Hiç kimse işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz.",
+    "gold_context": "Anayasa Madde 38: Kimse işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz.",
+    "kaynak": "Anayasa Madde 38",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__29c8035f55__madde_7__chunk_000"
+    ]
+  },
+  {
+    "id": "Q022",
+    "soru": "Bir idari işlemin hukuka uygun sayılabilmesi için hangi temel unsurları taşıması gerekir?",
+    "cevap": "Yetki, şekil, sebep, konu ve amaç unsurlarını taşıması gerekir.",
+    "gold_context": "İdare hukukunda idari işlemler yetki, şekil, sebep, konu ve amaç unsurlarından oluşur.",
+    "kaynak": "İdare Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q023",
+    "soru": "Hukuk devletinin temel özelliklerinden biri olan yargı denetimi ne anlama gelir?",
+    "cevap": "İdarenin her türlü eylem ve işleminin yargı denetimine tabi olmasıdır.",
+    "gold_context": "Anayasa Madde 125: İdarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır.",
+    "kaynak": "Anayasa Madde 125",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__15132015ef__madde_461__chunk_000"
+    ]
+  },
+  {
+    "id": "Q024",
+    "soru": "Medeni hukukta kişilik ne zaman başlar ve ne zaman sona erer?",
+    "cevap": "Kişilik, çocuğun sağ olarak tamamıyla doğduğu anda başlar ve ölüm ile sona erer.",
+    "gold_context": "Türk Medeni Kanunu Madde 28: Kişilik, çocuğun sağ olarak tamamıyla doğduğu anda başlar ve ölüm ile sona erer.",
+    "kaynak": "Türk Medeni Kanunu Madde 28",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_28__chunk_000"
+    ]
+  },
+  {
+    "id": "Q025",
+    "soru": "Bir sözleşmenin geçerli olabilmesi için gerekli temel unsurlar nelerdir?",
+    "cevap": "Tarafların karşılıklı ve birbirine uygun irade beyanında bulunmaları gerekir.",
+    "gold_context": "Türk Borçlar Kanunu Madde 1: Sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamalarıyla kurulur.",
+    "kaynak": "Türk Borçlar Kanunu Madde 1",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_borclar_kanunu__c954d31b15__madde_1__chunk_000"
+    ]
+  },
+  {
+    "id": "Q026",
+    "soru": "Ceza sorumluluğunun şahsiliği ilkesi neyi ifade eder?",
+    "cevap": "Hiç kimse başkasının işlediği fiilden dolayı sorumlu tutulamaz.",
+    "gold_context": "Anayasa Madde 38: Ceza sorumluluğu şahsidir.",
+    "kaynak": "Anayasa Madde 38",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q027",
+    "soru": "İdari yargıda iptal davası hangi durumlarda açılır?",
+    "cevap": "Hukuka aykırı idari işlemlerin iptali için açılır.",
+    "gold_context": "İdare hukukunda iptal davası, hukuka aykırı idari işlemlerin ortadan kaldırılması amacıyla açılır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "application",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q028",
+    "soru": "Borçlar hukukunda haksız fiil sorumluluğu hangi şartlara bağlıdır?",
+    "cevap": "Hukuka aykırı bir fiil, zarar, kusur ve illiyet bağının bulunmasına bağlıdır.",
+    "gold_context": "Türk Borçlar Kanunu Madde 49: Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren kişi bu zararı gidermekle yükümlüdür.",
+    "kaynak": "Türk Borçlar Kanunu Madde 49",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_borclar_kanunu__1b681747d0__madde_49__chunk_000"
+    ]
+  },
+  {
+    "id": "Q029",
+    "soru": "Anayasaya göre temel hak ve özgürlükler hangi durumlarda durdurulabilir?",
+    "cevap": "Savaş, seferberlik veya olağanüstü hallerde kısmen veya tamamen durdurulabilir.",
+    "gold_context": "Anayasa Madde 15: Savaş, seferberlik veya olağanüstü hallerde temel hak ve hürriyetlerin kullanılması kısmen veya tamamen durdurulabilir.",
+    "kaynak": "Anayasa Madde 15",
+    "difficulty": "hard",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_15__chunk_000"
+    ]
+  },
+  {
+    "id": "Q030",
+    "soru": "Bir kişinin medeni hakları kullanma ehliyeti hangi şartlara bağlıdır?",
+    "cevap": "Ayırt etme gücüne sahip ve ergin olması gerekir.",
+    "gold_context": "Türk Medeni Kanunu Madde 10: Ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişi fiil ehliyetine sahiptir.",
+    "kaynak": "Türk Medeni Kanunu Madde 10",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_10__chunk_000"
+    ]
+  },
+  {
+    "id": "Q031",
+    "soru": "İdari işlemlerin iptal edilebilmesi için hangi şartın sağlanması gerekir?",
+    "cevap": "İdari işlemin hukuka aykırı olması gerekir.",
+    "gold_context": "İdare hukukunda iptal davaları hukuka aykırı idari işlemlerin ortadan kaldırılması amacıyla açılır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q032",
+    "soru": "Hukuk devletinde idarenin yargı denetimine tabi olması hangi anayasal ilkeye dayanır?",
+    "cevap": "İdarenin her türlü eylem ve işlemlerine karşı yargı yolunun açık olması ilkesine dayanır.",
+    "gold_context": "Anayasa Madde 125: İdarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır.",
+    "kaynak": "Anayasa Madde 125",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__15132015ef__madde_461__chunk_000"
+    ]
+  },
+  {
+    "id": "Q033",
+    "soru": "Ceza hukukunda kusur ilkesi neyi ifade eder?",
+    "cevap": "Bir kişinin cezalandırılabilmesi için kusurlu olması gerekir.",
+    "gold_context": "Ceza hukukunda sorumluluk kusura dayanır ve kusur olmadan ceza verilemez.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q034",
+    "soru": "Sözleşmelerde irade sakatlığı halleri nelerdir?",
+    "cevap": "Hata, hile ve korkutmadır.",
+    "gold_context": "Türk Borçlar Kanunu'nda irade sakatlığı halleri hata, hile ve korkutma olarak düzenlenmiştir.",
+    "kaynak": "Türk Borçlar Kanunu",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q035",
+    "soru": "Anayasaya göre olağanüstü hallerde temel hakların sınırlandırılmasında hangi ilkeye uyulmalıdır?",
+    "cevap": "Durumun gerektirdiği ölçüde sınırlama yapılmalı ve çekirdek haklara dokunulmamalıdır.",
+    "gold_context": "Anayasa Madde 15: Durumun gerektirdiği ölçüde temel hak ve hürriyetlerin kullanılması kısmen veya tamamen durdurulabilir.",
+    "kaynak": "Anayasa Madde 15",
+    "difficulty": "hard",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_15__chunk_000"
+    ]
+  },
+  {
+    "id": "Q036",
+    "soru": "Bir idari işlem yetki unsuru yönünden sakat ise sonucu ne olur?",
+    "cevap": "İşlem hukuka aykırı hale gelir ve iptal edilebilir.",
+    "gold_context": "İdari işlemlerin unsurlarından biri olan yetki unsuru hukuka uygun olmalıdır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "application",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q037",
+    "soru": "Medeni hukukta yerleşim yeri nasıl belirlenir?",
+    "cevap": "Bir kimsenin sürekli kalma niyetiyle oturduğu yer yerleşim yeridir.",
+    "gold_context": "Türk Medeni Kanunu Madde 19: Yerleşim yeri bir kimsenin sürekli kalma niyetiyle oturduğu yerdir.",
+    "kaynak": "Türk Medeni Kanunu Madde 19",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_19__chunk_000"
+    ]
+  },
+  {
+    "id": "Q038",
+    "soru": "Ceza hukukunda teşebbüs ne zaman söz konusu olur?",
+    "cevap": "Kişi suçu işlemeye elverişli hareketlerle doğrudan doğruya icraya başlayıp elinde olmayan nedenlerle tamamlayamazsa teşebbüs söz konusu olur.",
+    "gold_context": "Türk Ceza Kanunu Madde 35: Kişi işlemeyi kastettiği suçu elverişli hareketlerle doğrudan doğruya icraya başlayıp elinde olmayan nedenlerle tamamlayamazsa teşebbüsten sorumlu tutulur.",
+    "kaynak": "Türk Ceza Kanunu Madde 35",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__9d49256534__madde_35__chunk_000"
+    ]
+  },
+  {
+    "id": "Q039",
+    "soru": "İdarenin sorumluluğu hangi durumlarda doğar?",
+    "cevap": "İdarenin hukuka aykırı işlem veya eylemi sonucu zarar doğarsa sorumluluk ortaya çıkar.",
+    "gold_context": "İdare hukukunda idarenin sorumluluğu hukuka aykırı işlem ve eylemlerden doğan zararların tazmini esasına dayanır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "application",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q040",
+    "soru": "Hukuki işlemlerde şekil şartı neyi ifade eder?",
+    "cevap": "Bir hukuki işlemin geçerliliği için kanunda öngörülen şekil şartına uyulması gerektiğini ifade eder.",
+    "gold_context": "Türk Borçlar Kanunu'nda bazı sözleşmeler için şekil şartı öngörülmüştür.",
+    "kaynak": "Türk Borçlar Kanunu",
+    "difficulty": "easy",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q041",
+    "soru": "Anayasaya göre kimse hangi sebeplerle ayrımcılığa uğrayamaz?",
+    "cevap": "Dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep gibi sebeplerle ayrımcılığa uğrayamaz.",
+    "gold_context": "Anayasa Madde 10: Herkes dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin eşittir.",
+    "kaynak": "Anayasa Madde 10",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_10__chunk_000"
+    ]
+  },
+  {
+    "id": "Q042",
+    "soru": "Ceza hukukunda meşru savunma hangi şartlarda mümkündür?",
+    "cevap": "Haksız bir saldırıyı defetmek için zorunlu ve orantılı bir savunma yapılması halinde mümkündür.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Gerek kendisine gerek başkasına yönelik haksız bir saldırıyı defetmek zorunluluğu ile işlenen fiillerden dolayı ceza verilmez.",
+    "kaynak": "Türk Ceza Kanunu Madde 25",
+    "difficulty": "medium",
+    "type": "application",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__a1fc21becd__madde_25__chunk_000"
+    ]
+  },
+  {
+    "id": "Q043",
+    "soru": "İdari işlemlerde sebep unsuru neyi ifade eder?",
+    "cevap": "İdari işlemin dayandığı hukuki ve fiili nedenleri ifade eder.",
+    "gold_context": "İdari işlemlerde sebep unsuru işlemin dayandığı hukuki ve fiili nedenleri ifade eder.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q044",
+    "soru": "Borçlar hukukunda temerrüt ne zaman gerçekleşir?",
+    "cevap": "Borçlunun borcunu zamanında ifa etmemesi halinde temerrüt gerçekleşir.",
+    "gold_context": "Türk Borçlar Kanunu'nda borçlunun borcunu zamanında ifa etmemesi temerrüt olarak kabul edilir.",
+    "kaynak": "Türk Borçlar Kanunu",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q045",
+    "soru": "Anayasa Mahkemesi'nin temel görevi nedir?",
+    "cevap": "Kanunların, Cumhurbaşkanlığı kararnamelerinin ve TBMM İçtüzüğünün Anayasaya uygunluğunu denetlemektir.",
+    "gold_context": "Anayasa Madde 148: Anayasa Mahkemesi kanunların, Cumhurbaşkanlığı kararnamelerinin ve TBMM İçtüzüğünün Anayasaya uygunluğunu denetler.",
+    "kaynak": "Anayasa Madde 148",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__da3474e44f__madde_148__chunk_000"
+    ]
+  },
+  {
+    "id": "Q046",
+    "soru": "Medeni hukukta gaiplik neyi ifade eder?",
+    "cevap": "Uzun süredir kendisinden haber alınamayan veya ölüm tehlikesi içinde kaybolan kişinin mahkeme kararıyla ölmüş sayılmasıdır.",
+    "gold_context": "Türk Medeni Kanunu Madde 32: Ölüm tehlikesi içinde kaybolan veya kendisinden uzun süre haber alınamayan kişinin gaipliğine karar verilebilir.",
+    "kaynak": "Türk Medeni Kanunu Madde 32",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_32__chunk_000"
+    ]
+  },
+  {
+    "id": "Q047",
+    "soru": "Ceza hukukunda kast neyi ifade eder?",
+    "cevap": "Failin suçun kanuni tanımındaki unsurları bilerek ve isteyerek gerçekleştirmesidir.",
+    "gold_context": "Türk Ceza Kanunu Madde 21: Suçun oluşması kastın varlığına bağlıdır. Kast, suçun kanuni tanımındaki unsurların bilerek ve istenerek gerçekleştirilmesidir.",
+    "kaynak": "Türk Ceza Kanunu Madde 21",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__3216ff5325__madde_21__chunk_000"
+    ]
+  },
+  {
+    "id": "Q048",
+    "soru": "İdari yargıda tam yargı davası ne amaçla açılır?",
+    "cevap": "İdarenin işlem veya eylemlerinden doğan zararların tazmini amacıyla açılır.",
+    "gold_context": "İdare hukukunda tam yargı davası idarenin eylem ve işlemlerinden doğan zararların giderilmesi için açılır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "application",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q049",
+    "soru": "Temel hakların sınırlandırılmasında ölçülülük ilkesi neyi gerektirir?",
+    "cevap": "Sınırlamanın amaca uygun, gerekli ve orantılı olmasını gerektirir.",
+    "gold_context": "Anayasa Madde 13: Sınırlamalar ölçülülük ilkesine aykırı olamaz.",
+    "kaynak": "Anayasa Madde 13",
+    "difficulty": "hard",
+    "type": "conceptual",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_13__chunk_000"
+    ]
+  },
+  {
+    "id": "Q050",
+    "soru": "Fiil ehliyeti olmayan bir kişinin yaptığı işlemin hukuki sonucu nedir?",
+    "cevap": "Fiil ehliyeti olmayan kişinin yaptığı işlemler kural olarak geçersizdir.",
+    "gold_context": "Türk Medeni Kanunu Madde 9 ve 10: Fiil ehliyeti bulunmayan kişilerin işlemleri hukuki sonuç doğurmaz.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "medium",
+    "type": "application",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_10__chunk_000"
+    ]
+  },
+  {
+    "id": "Q051",
+    "soru": "Anayasaya göre Türkiye Cumhuriyeti'nin resmi dili nedir?",
+    "cevap": "Türkçedir.",
+    "gold_context": "Anayasa Madde 3: Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür. Dili Türkçedir.",
+    "kaynak": "Anayasa Madde 3",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_3__chunk_000"
+    ]
+  },
+  {
+    "id": "Q052",
+    "soru": "Ceza hukukunda taksir neyi ifade eder?",
+    "cevap": "Dikkat ve özen yükümlülüğüne aykırılık nedeniyle suçun istenmeden işlenmesidir.",
+    "gold_context": "Türk Ceza Kanunu Madde 22: Taksirle işlenen fiil, dikkat ve özen yükümlülüğüne aykırılık dolayısıyla bir davranışın suçun kanuni tanımında belirtilen neticesi öngörülmeyerek gerçekleştirilmesidir.",
+    "kaynak": "Türk Ceza Kanunu Madde 22",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__3216ff5325__madde_22__chunk_000"
+    ]
+  },
+  {
+    "id": "Q053",
+    "soru": "Bir sözleşmenin kurulabilmesi için gerekli irade beyanlarının niteliği ne olmalıdır?",
+    "cevap": "Karşılıklı ve birbirine uygun olmalıdır.",
+    "gold_context": "Türk Borçlar Kanunu Madde 1: Sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamalarıyla kurulur.",
+    "kaynak": "Türk Borçlar Kanunu Madde 1",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_borclar_kanunu__c954d31b15__madde_1__chunk_000"
+    ]
+  },
+  {
+    "id": "Q054",
+    "soru": "İdari işlemlerde amaç unsuru neyi ifade eder?",
+    "cevap": "İdari işlemin kamu yararını gerçekleştirme amacına yönelik olmasını ifade eder.",
+    "gold_context": "İdare hukukunda amaç unsuru idari işlemin kamu yararına yönelik olmasını ifade eder.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q055",
+    "soru": "Temel hakların sınırlandırılması ile ölçülülük ilkesi arasındaki ilişki nedir?",
+    "cevap": "Temel hakların sınırlandırılması ölçülülük ilkesine uygun olmalı, yani sınırlama gerekli, uygun ve orantılı olmalıdır.",
+    "gold_context": "Anayasa Madde 13: Temel hak ve hürriyetler ancak kanunla sınırlanabilir ve bu sınırlamalar ölçülülük ilkesine aykırı olamaz.",
+    "kaynak": "Anayasa Madde 13",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_13__chunk_000"
+    ]
+  },
+  {
+    "id": "Q056",
+    "soru": "Bir kişinin fiil ehliyetine sahip olması ile yaptığı işlemlerin geçerliliği arasında nasıl bir ilişki vardır?",
+    "cevap": "Fiil ehliyetine sahip kişiler yaptıkları işlemlerle hak ve borç doğurabilirken, fiil ehliyeti olmayanların işlemleri kural olarak geçersizdir.",
+    "gold_context": "Türk Medeni Kanunu Madde 9 ve 10: Fiil ehliyetine sahip olanlar kendi fiilleriyle hak edinebilir ve borç altına girebilir.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_9__chunk_000"
+    ]
+  },
+  {
+    "id": "Q057",
+    "soru": "Ahmet, kendisine yönelen haksız bir saldırıyı engellemek için saldırgana zarar verirse bu durumda cezai sorumluluğu doğar mı?",
+    "cevap": "Hayır, meşru savunma kapsamında değerlendirilirse cezai sorumluluğu doğmaz.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Gerek kendisine gerek başkasına yönelik haksız bir saldırıyı defetmek zorunluluğu ile işlenen fiillerden dolayı ceza verilmez.",
+    "kaynak": "Türk Ceza Kanunu Madde 25",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__a1fc21becd__madde_25__chunk_000"
+    ]
+  },
+  {
+    "id": "Q058",
+    "soru": "Devlet, kamu yararı gerekçesiyle Ayşe’nin mülkiyet hakkını sınırlandırırsa bu durum hangi şartlarda hukuka uygun olur?",
+    "cevap": "Kanunla yapılmalı ve ölçülülük ilkesine uygun olmalıdır.",
+    "gold_context": "Anayasa Madde 13 ve 35: Temel haklar kanunla sınırlanabilir ve mülkiyet hakkı kamu yararı amacıyla sınırlanabilir.",
+    "kaynak": "Anayasa Madde 13, 35",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6b4ecad37d__madde_35__chunk_000"
+    ]
+  },
+  {
+    "id": "Q059",
+    "soru": "Bir kişiye 1 Mart 2026 tarihinde tebliğ edilen karara karşı 7 günlük itiraz süresi varsa son başvuru tarihi nedir?",
+    "cevap": "8 Mart 2026'dır.",
+    "gold_context": "Hukukta süreler tebliğ tarihini izleyen günden itibaren işlemeye başlar.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q060",
+    "soru": "Türk Anayasasına göre yapay zekâ varlıklarının temel hakları nasıl düzenlenmiştir?",
+    "cevap": "Bu konuda Anayasada herhangi bir düzenleme bulunmamaktadır.",
+    "gold_context": "Anayasada yapay zekâ varlıklarına ilişkin bir düzenleme yer almamaktadır.",
+    "kaynak": "Negative Query",
+    "difficulty": "hard",
+    "type": "negative",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q061",
+    "soru": "Anayasaya göre devletin şekli hangi hükümle belirlenmiştir?",
+    "cevap": "Türkiye Devleti bir Cumhuriyettir.",
+    "gold_context": "Anayasa Madde 1: Türkiye Devleti bir Cumhuriyettir.",
+    "kaynak": "Anayasa Madde 1",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_1__chunk_000"
+    ]
+  },
+  {
+    "id": "Q062",
+    "soru": "Ceza hukukunda iştirak neyi ifade eder?",
+    "cevap": "Birden fazla kişinin bir suçun işlenmesine birlikte katılmasıdır.",
+    "gold_context": "Türk Ceza Kanunu'nda iştirak, birden fazla kişinin suçun işlenmesine katılması olarak düzenlenmiştir.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q063",
+    "soru": "Medeni hukukta kişiliğin korunması neyi kapsar?",
+    "cevap": "Kişinin hayatı, sağlığı, şeref ve haysiyeti ile özel hayatının korunmasını kapsar.",
+    "gold_context": "Türk Medeni Kanunu kişiliğin korunmasını hayat, sağlık ve şeref gibi değerlerin korunması olarak düzenler.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q064",
+    "soru": "İdarenin eylem ve işlemlerinden doğan zararlar hangi dava türü ile talep edilir?",
+    "cevap": "Tam yargı davası ile talep edilir.",
+    "gold_context": "İdari yargıda tam yargı davası idarenin eylem ve işlemlerinden doğan zararların tazmini amacıyla açılır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q065",
+    "soru": "Temel hakların sınırlandırılması ile hukuk devleti ilkesi birlikte değerlendirildiğinde hangi güvenceler ortaya çıkar?",
+    "cevap": "Sınırlamalar yalnızca kanunla yapılmalı, ölçülülük ilkesine uygun olmalı ve yargı denetimine açık olmalıdır.",
+    "gold_context": "Anayasa Madde 13 ve 125: Temel haklar kanunla ve ölçülülük ilkesine uygun sınırlandırılabilir, idarenin işlemleri yargı denetimine tabidir.",
+    "kaynak": "Anayasa Madde 13, 125",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_16__chunk_000"
+    ]
+  },
+  {
+    "id": "Q066",
+    "soru": "Bir kişinin kusuru olmadan verdiği zarardan sorumlu tutulup tutulamayacağı hangi hukuk ilkesiyle ilişkilidir?",
+    "cevap": "Kusur sorumluluğu ilkesi ile ilişkilidir; genel olarak kusur yoksa sorumluluk doğmaz, ancak istisnai olarak kusursuz sorumluluk halleri vardır.",
+    "gold_context": "Türk Borçlar Kanunu Madde 49: Kusurlu ve hukuka aykırı fiil sorumluluk doğurur.",
+    "kaynak": "Türk Borçlar Kanunu",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_bayragi_tuzugu__c67099cc06__madde_39__chunk_000"
+    ]
+  },
+  {
+    "id": "Q067",
+    "soru": "Ali, yanlışlıkla başkasına ait eşyayı kendi malı zannederek kullanırsa bu durumda kast var mıdır?",
+    "cevap": "Hayır, kast yoktur çünkü kişi fiilin hukuka aykırı olduğunu bilmemektedir.",
+    "gold_context": "Türk Ceza Kanunu Madde 21: Kast, suçun unsurlarının bilerek ve isteyerek gerçekleştirilmesidir.",
+    "kaynak": "Türk Ceza Kanunu Madde 21",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__3216ff5325__madde_21__chunk_000"
+    ]
+  },
+  {
+    "id": "Q068",
+    "soru": "Ayşe, borcunu zamanında ödemediği için alacaklı zarar görürse bu durumda hangi hukuki sonuç doğar?",
+    "cevap": "Borçlu temerrüde düşer ve doğan zararı tazmin etmekle yükümlü olur.",
+    "gold_context": "Türk Borçlar Kanunu: Borcun zamanında ifa edilmemesi temerrüt sonucunu doğurur.",
+    "kaynak": "Türk Borçlar Kanunu",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q069",
+    "soru": "Bir kişiye 10 Nisan 2026 tarihinde tebliğ edilen karara karşı 15 günlük dava açma süresi varsa son gün hangi tarihtir?",
+    "cevap": "25 Nisan 2026'dır.",
+    "gold_context": "Hukukta süreler tebliğ tarihini izleyen günden itibaren işlemeye başlar.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q070",
+    "soru": "Taksirle öldürme ile kasten öldürme arasındaki temel fark nedir?",
+    "cevap": "Kasten öldürmede fail sonucu bilerek ve isteyerek gerçekleştirirken, taksirle öldürmede sonuç öngörülmez veya istenmez.",
+    "gold_context": "Türk Ceza Kanunu Madde 21 ve 22: Kast ve taksir kavramları ayrı şekilde tanımlanmıştır.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "hard",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q071",
+    "soru": "Anayasaya göre Türkiye Devleti'nin ülkesi ve milletiyle bütünlüğü nasıl tanımlanır?",
+    "cevap": "Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür.",
+    "gold_context": "Anayasa Madde 3: Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür.",
+    "kaynak": "Anayasa Madde 3",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_3__chunk_000"
+    ]
+  },
+  {
+    "id": "Q072",
+    "soru": "Ceza hukukunda neticesi sebebiyle ağırlaşmış suç neyi ifade eder?",
+    "cevap": "Failin kastettiğinden daha ağır bir sonucun meydana gelmesi durumudur.",
+    "gold_context": "Türk Ceza Kanunu Madde 23: Bir fiilin, kastedilenden daha ağır veya başka bir neticenin oluşmasına sebebiyet vermesi halinde fail bundan sorumlu tutulur.",
+    "kaynak": "Türk Ceza Kanunu Madde 23",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__3216ff5325__madde_23__chunk_000"
+    ]
+  },
+  {
+    "id": "Q073",
+    "soru": "Medeni hukukta ayırt etme gücü neyi ifade eder?",
+    "cevap": "Kişinin davranışlarının sonuçlarını algılayıp buna göre hareket edebilme yeteneğini ifade eder.",
+    "gold_context": "Türk Medeni Kanunu Madde 13: Ayırt etme gücü, kişinin davranışlarının sonuçlarını anlayabilme yeteneğidir.",
+    "kaynak": "Türk Medeni Kanunu Madde 13",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q074",
+    "soru": "İdari işlemlerde şekil unsuru neyi ifade eder?",
+    "cevap": "İdari işlemin kanunda öngörülen usul ve şekil kurallarına uygun yapılmasını ifade eder.",
+    "gold_context": "İdare hukukunda şekil unsuru, işlemin belirlenen usule uygun yapılmasını ifade eder.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q075",
+    "soru": "Temel hakların sınırlandırılması ile olağanüstü hal rejimi birlikte değerlendirildiğinde hangi farklılık ortaya çıkar?",
+    "cevap": "Olağanüstü hallerde temel haklar daha geniş ölçüde sınırlandırılabilir veya durdurulabilir, ancak bu durum yine ölçülülük ilkesine bağlıdır.",
+    "gold_context": "Anayasa Madde 13 ve 15: Temel haklar normal şartlarda sınırlanabilir, olağanüstü hallerde ise kısmen veya tamamen durdurulabilir.",
+    "kaynak": "Anayasa Madde 13, 15",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q076",
+    "soru": "Fiil ehliyeti ile ayırt etme gücü birlikte değerlendirildiğinde hukuki işlem yapma kapasitesi nasıl belirlenir?",
+    "cevap": "Fiil ehliyeti için ayırt etme gücüne sahip olmak ve ergin olmak gerekir; bu şartlar yoksa işlemler geçerli olmaz.",
+    "gold_context": "Türk Medeni Kanunu Madde 10 ve 13: Fiil ehliyeti için ayırt etme gücü ve erginlik gerekir.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_10__chunk_000"
+    ]
+  },
+  {
+    "id": "Q077",
+    "soru": "Ali, kendisine ait olmayan bir eşyayı çaldığını bilmeden alırsa bu durumda hırsızlık suçu oluşur mu?",
+    "cevap": "Hayır, kast unsuru bulunmadığı için hırsızlık suçu oluşmaz.",
+    "gold_context": "Türk Ceza Kanunu Madde 21: Kast, suçun unsurlarının bilerek ve isteyerek gerçekleştirilmesidir.",
+    "kaynak": "Türk Ceza Kanunu Madde 21",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__3216ff5325__madde_21__chunk_000"
+    ]
+  },
+  {
+    "id": "Q078",
+    "soru": "Devlet, bir kişinin temel hakkını kanuni dayanak olmadan sınırlandırırsa bu işlem hukuka uygun olur mu?",
+    "cevap": "Hayır, temel haklar ancak kanunla sınırlandırılabilir.",
+    "gold_context": "Anayasa Madde 13: Temel hak ve hürriyetler ancak kanunla sınırlanabilir.",
+    "kaynak": "Anayasa Madde 13",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_16__chunk_000"
+    ]
+  },
+  {
+    "id": "Q079",
+    "soru": "Bir kişiye 5 Mayıs 2026 tarihinde tebliğ edilen bir işleme karşı 10 günlük başvuru süresi varsa son gün hangi tarihtir?",
+    "cevap": "15 Mayıs 2026'dır.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren işlemeye başlar.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q080",
+    "soru": "Türk Borçlar Kanunu'na göre Mars'ta yapılan sözleşmelerin geçerliliği nasıl düzenlenmiştir?",
+    "cevap": "Bu konuda Türk Borçlar Kanunu'nda herhangi bir düzenleme bulunmamaktadır.",
+    "gold_context": "Türk Borçlar Kanunu'nda uzay veya Mars'ta yapılan sözleşmelere ilişkin bir düzenleme yer almamaktadır.",
+    "kaynak": "Negative Query",
+    "difficulty": "hard",
+    "type": "negative",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q081",
+    "soru": "Anayasaya göre Türkiye Cumhuriyeti'nin niteliklerinden biri olan laiklik neyi ifade eder?",
+    "cevap": "Devletin din ve inançlar karşısında tarafsız olmasını ifade eder.",
+    "gold_context": "Anayasa Madde 2: Türkiye Cumhuriyeti demokratik, laik ve sosyal bir hukuk devletidir.",
+    "kaynak": "Anayasa Madde 2",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_2__chunk_000"
+    ]
+  },
+  {
+    "id": "Q082",
+    "soru": "Ceza hukukunda olası kast neyi ifade eder?",
+    "cevap": "Failin sonucu öngörmesine rağmen fiili işlemesi durumudur.",
+    "gold_context": "Türk Ceza Kanunu Madde 21: Kişi, suçun kanuni tanımındaki unsurların gerçekleşebileceğini öngörmesine rağmen fiili işlerse olası kast vardır.",
+    "kaynak": "Türk Ceza Kanunu Madde 21",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__3216ff5325__madde_21__chunk_000"
+    ]
+  },
+  {
+    "id": "Q083",
+    "soru": "Medeni hukukta haksız fiil sonucu doğan zararın tazmini hangi ilkeye dayanır?",
+    "cevap": "Zararın giderilmesi ve kusur sorumluluğu ilkesine dayanır.",
+    "gold_context": "Türk Borçlar Kanunu Madde 49: Kusurlu ve hukuka aykırı fiil ile zarar veren kişi bu zararı gidermekle yükümlüdür.",
+    "kaynak": "Türk Borçlar Kanunu Madde 49",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_borclar_kanunu__1b681747d0__madde_49__chunk_000"
+    ]
+  },
+  {
+    "id": "Q084",
+    "soru": "İdari işlemlerde konu unsuru neyi ifade eder?",
+    "cevap": "İdari işlemin doğurduğu hukuki sonucu ifade eder.",
+    "gold_context": "İdari işlemlerde konu unsuru, işlemin ortaya çıkardığı hukuki sonucu ifade eder.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q085",
+    "soru": "Temel hakların sınırlandırılması ile mülkiyet hakkı birlikte değerlendirildiğinde hangi şartlar aranır?",
+    "cevap": "Sınırlama kanunla yapılmalı, kamu yararına dayanmalı ve ölçülülük ilkesine uygun olmalıdır.",
+    "gold_context": "Anayasa Madde 13 ve 35: Temel haklar kanunla ve ölçülülük ilkesine uygun sınırlandırılabilir, mülkiyet hakkı kamu yararı amacıyla sınırlanabilir.",
+    "kaynak": "Anayasa Madde 13, 35",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6b4ecad37d__madde_35__chunk_000"
+    ]
+  },
+  {
+    "id": "Q086",
+    "soru": "Ceza sorumluluğu ile kusur ilkesi birlikte değerlendirildiğinde hangi sonuç ortaya çıkar?",
+    "cevap": "Kusur olmadan ceza sorumluluğu doğmaz.",
+    "gold_context": "Türk Ceza Hukuku Genel İlkeleri: Ceza sorumluluğu kusura dayanır.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q087",
+    "soru": "Ali, kendisine yönelen saldırıyı aşırı güç kullanarak bertaraf ederse bu durumda meşru savunma sınırları aşılmış olur mu?",
+    "cevap": "Evet, savunma orantılı değilse meşru savunma sınırları aşılmış sayılır.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Meşru savunmada zorunluluk ve orantılılık aranır.",
+    "kaynak": "Türk Ceza Kanunu Madde 25",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q088",
+    "soru": "Ayşe, ayırt etme gücüne sahip olmadan yaptığı bir sözleşmeden dolayı bağlayıcı bir borç altına girer mi?",
+    "cevap": "Hayır, ayırt etme gücü olmayan kişinin işlemleri kural olarak geçersizdir.",
+    "gold_context": "Türk Medeni Kanunu Madde 13: Ayırt etme gücü bulunmayanların işlemleri hukuki sonuç doğurmaz.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_15__chunk_000"
+    ]
+  },
+  {
+    "id": "Q089",
+    "soru": "Bir kişiye 20 Haziran 2026 tarihinde tebliğ edilen ve 10 günlük süreye tabi olan başvuru için son gün hangi tarihtir?",
+    "cevap": "30 Haziran 2026'dır.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren işlemeye başlar.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q090",
+    "soru": "Türk Anayasasına göre uzayda kurulan devletlerin hukuki statüsü nasıl düzenlenmiştir?",
+    "cevap": "Bu konuda Anayasada herhangi bir düzenleme bulunmamaktadır.",
+    "gold_context": "Anayasada uzayda kurulan devletlere ilişkin bir düzenleme yer almamaktadır.",
+    "kaynak": "Negative Query",
+    "difficulty": "hard",
+    "type": "negative",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q091",
+    "soru": "Anayasaya göre devletin temel amaçlarından biri olan sosyal devlet ilkesi neyi ifade eder?",
+    "cevap": "Devletin toplumun refahını sağlamak ve sosyal adaleti gerçekleştirmek için gerekli önlemleri almasını ifade eder.",
+    "gold_context": "Anayasa Madde 2: Türkiye Cumhuriyeti sosyal bir hukuk devletidir.",
+    "kaynak": "Anayasa Madde 2",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_2__chunk_000"
+    ]
+  },
+  {
+    "id": "Q092",
+    "soru": "Ceza hukukunda suçun maddi unsuru neyi ifade eder?",
+    "cevap": "Suçun dış dünyaya yansıyan hareket ve sonuç kısmını ifade eder.",
+    "gold_context": "Ceza hukukunda suçun maddi unsuru hareket, netice ve illiyet bağından oluşur.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q093",
+    "soru": "Medeni hukukta mirasın açılması ne zaman gerçekleşir?",
+    "cevap": "Miras bırakanın ölümü ile gerçekleşir.",
+    "gold_context": "Türk Medeni Kanunu Madde 575: Miras, miras bırakanın ölümü ile açılır.",
+    "kaynak": "Türk Medeni Kanunu Madde 575",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q094",
+    "soru": "İdarenin hukuka uygunluk karinesi neyi ifade eder?",
+    "cevap": "İdari işlemlerin hukuka uygun olduğu varsayımı ile uygulanmasını ifade eder.",
+    "gold_context": "İdare hukukunda idari işlemler hukuka uygunluk karinesinden yararlanır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q095",
+    "soru": "Temel hakların sınırlandırılması ile olağanüstü hal uygulamaları birlikte değerlendirildiğinde hangi haklar sınırlandırılamaz?",
+    "cevap": "Yaşama hakkı, işkence yasağı ve suçta ve cezada kanunilik ilkesi gibi çekirdek haklar sınırlandırılamaz.",
+    "gold_context": "Anayasa Madde 15: Olağanüstü hallerde dahi yaşama hakkı ve suçta ve cezada kanunilik ilkesi gibi çekirdek haklara dokunulamaz.",
+    "kaynak": "Anayasa Madde 15",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q096",
+    "soru": "Kusur ilkesi ile haksız fiil sorumluluğu birlikte değerlendirildiğinde hangi sonuç ortaya çıkar?",
+    "cevap": "Zarar veren kişinin kusurlu olması halinde sorumluluk doğar.",
+    "gold_context": "Türk Borçlar Kanunu Madde 49: Kusurlu ve hukuka aykırı fiil sorumluluk doğurur.",
+    "kaynak": "Türk Borçlar Kanunu Madde 49",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_bayragi_tuzugu__c67099cc06__madde_39__chunk_000"
+    ]
+  },
+  {
+    "id": "Q097",
+    "soru": "Ali, kendisine yönelik olmayan bir saldırıyı önlemek için güç kullanırsa bu durum meşru savunma kapsamında değerlendirilir mi?",
+    "cevap": "Evet, başkasına yönelik saldırıyı defetmek için yapılan savunma da meşru savunma kapsamında değerlendirilebilir.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Gerek kendisine gerek başkasına yönelik haksız saldırıyı defetmek mümkündür.",
+    "kaynak": "Türk Ceza Kanunu Madde 25",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__a1fc21becd__madde_25__chunk_000"
+    ]
+  },
+  {
+    "id": "Q098",
+    "soru": "Ayşe, borcunu vadesinde ödemediği halde alacaklı herhangi bir zarar görmezse temerrüt hükümleri uygulanır mı?",
+    "cevap": "Evet, borcun zamanında ifa edilmemesi temerrüt için yeterlidir.",
+    "gold_context": "Türk Borçlar Kanunu: Borcun zamanında ifa edilmemesi temerrüt sonucunu doğurur.",
+    "kaynak": "Türk Borçlar Kanunu",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q099",
+    "soru": "Bir kişiye 28 Şubat 2026 tarihinde tebliğ edilen ve 5 günlük süreye tabi olan bir işlem için son gün hangi tarihtir?",
+    "cevap": "5 Mart 2026'dır.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren işlemeye başlar.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q100",
+    "soru": "Türk Ceza Kanunu'na göre zaman yolculuğu yaparak işlenen suçlar nasıl cezalandırılır?",
+    "cevap": "Bu konuda Türk Ceza Kanunu'nda herhangi bir düzenleme bulunmamaktadır.",
+    "gold_context": "Türk Ceza Kanunu'nda zaman yolculuğu ile ilgili bir düzenleme yer almamaktadır.",
+    "kaynak": "Negative Query",
+    "difficulty": "hard",
+    "type": "negative",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q101",
+    "soru": "Anayasaya göre egemenliğin kaynağı nedir?",
+    "cevap": "Egemenlik kayıtsız şartsız Milletindir.",
+    "gold_context": "Anayasa Madde 6: Egemenlik kayıtsız şartsız Milletindir.",
+    "kaynak": "Anayasa Madde 6",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_6__chunk_000"
+    ]
+  },
+  {
+    "id": "Q102",
+    "soru": "Ceza hukukunda netice ile hareket arasındaki bağlantıyı ifade eden kavram nedir?",
+    "cevap": "İlliyet bağıdır.",
+    "gold_context": "Ceza hukukunda suçun maddi unsurlarından biri illiyet bağıdır.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q103",
+    "soru": "Medeni hukukta erginlik yaşı kaçtır?",
+    "cevap": "18 yaştır.",
+    "gold_context": "Türk Medeni Kanunu Madde 11: Erginlik on sekiz yaşın doldurulmasıyla başlar.",
+    "kaynak": "Türk Medeni Kanunu Madde 11",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_11__chunk_000"
+    ]
+  },
+  {
+    "id": "Q104",
+    "soru": "İdari işlemlerin hukuka uygunluk denetimi hangi yargı kolu tarafından yapılır?",
+    "cevap": "İdari yargı tarafından yapılır.",
+    "gold_context": "İdari işlemler idari yargı denetimine tabidir.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q105",
+    "soru": "Temel hakların sınırlandırılması ile hukuk devleti ilkesi birlikte değerlendirildiğinde hangi iki temel güvence ortaya çıkar?",
+    "cevap": "Sınırlamaların kanunla yapılması ve yargı denetimine açık olması gerekir.",
+    "gold_context": "Anayasa Madde 13 ve 125: Temel haklar kanunla sınırlanabilir ve idarenin işlemleri yargı denetimine tabidir.",
+    "kaynak": "Anayasa Madde 13, 125",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_16__chunk_000"
+    ]
+  },
+  {
+    "id": "Q106",
+    "soru": "Kast ve taksir birlikte değerlendirildiğinde suçun manevi unsuru nasıl belirlenir?",
+    "cevap": "Suçun manevi unsuru kast veya taksir şeklinde ortaya çıkar.",
+    "gold_context": "Türk Ceza Kanunu Madde 21 ve 22: Kast ve taksir suçun manevi unsurlarıdır.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_borclar_kanunu__a96b3220e9__madde_646__chunk_000"
+    ]
+  },
+  {
+    "id": "Q107",
+    "soru": "Ali, saldırıyı durdurduktan sonra saldırgana zarar vermeye devam ederse bu durum meşru savunma kapsamında kalır mı?",
+    "cevap": "Hayır, saldırı sona erdiği için meşru savunma kapsamında değerlendirilemez.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Meşru savunma haksız saldırıyı defetmek için zorunlu olduğu sürece geçerlidir.",
+    "kaynak": "Türk Ceza Kanunu Madde 25",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__a1e0f1213d__madde_4__chunk_000"
+    ]
+  },
+  {
+    "id": "Q108",
+    "soru": "Ayşe, hukuka aykırı bir idari işleme karşı dava açmazsa bu işlem geçerliliğini korur mu?",
+    "cevap": "Evet, iptal edilmediği sürece idari işlem geçerliliğini korur.",
+    "gold_context": "İdari işlemler hukuka uygunluk karinesi gereği iptal edilene kadar geçerlidir.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q109",
+    "soru": "Bir kişiye 3 Temmuz 2026 Cuma günü tebliğ edilen ve 3 günlük süreye tabi olan başvuru için son gün hangi tarihtir?",
+    "cevap": "6 Temmuz 2026 Pazartesi günüdür.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren işlemeye başlar ve son gün tatil ise süre ilk iş günü sona erer.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q110",
+    "soru": "Olası kast ile bilinçli taksir arasındaki temel fark nedir?",
+    "cevap": "Olası kastta fail sonucu kabullenirken, bilinçli taksirde sonucu istemez ancak gerçekleşebileceğini öngörür.",
+    "gold_context": "Türk Ceza Kanunu Madde 21 ve 22: Olası kast ve bilinçli taksir farklı kavramlardır.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "hard",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q111",
+    "soru": "Anayasaya göre yasama yetkisi kime aittir?",
+    "cevap": "Türkiye Büyük Millet Meclisinindir.",
+    "gold_context": "Anayasa Madde 7: Yasama yetkisi Türkiye Büyük Millet Meclisinindir.",
+    "kaynak": "Anayasa Madde 7",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_7__chunk_000"
+    ]
+  },
+  {
+    "id": "Q112",
+    "soru": "Ceza hukukunda suçun manevi unsurlarından biri olmayan kavram hangisidir?",
+    "cevap": "İlliyet bağı manevi unsur değildir.",
+    "gold_context": "Ceza hukukunda kast ve taksir manevi unsurdur, illiyet bağı maddi unsurdur.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q113",
+    "soru": "Medeni hukukta yerleşim yeri değiştirilebilir mi?",
+    "cevap": "Evet, kişi yeni bir yerde sürekli kalma niyetiyle yerleşim yerini değiştirebilir.",
+    "gold_context": "Türk Medeni Kanunu Madde 19: Yerleşim yeri değiştirilebilir.",
+    "kaynak": "Türk Medeni Kanunu Madde 19",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q114",
+    "soru": "İdari işlemlerin geri alınması neyi ifade eder?",
+    "cevap": "İdarenin hukuka aykırı işlemini geçmişe etkili olarak ortadan kaldırmasıdır.",
+    "gold_context": "İdare hukukunda geri alma işlemi hukuka aykırı işlemin ortadan kaldırılmasıdır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q115",
+    "soru": "Temel hakların sınırlandırılması, ölçülülük ve hukuk devleti ilkeleri birlikte değerlendirildiğinde hangi üç temel şart ortaya çıkar?",
+    "cevap": "Sınırlama kanunla yapılmalı, ölçülü olmalı ve yargı denetimine açık olmalıdır.",
+    "gold_context": "Anayasa Madde 13 ve 125: Temel haklar kanunla ve ölçülülük ilkesine uygun sınırlandırılabilir, yargı denetimi açıktır.",
+    "kaynak": "Anayasa Madde 13, 125",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_16__chunk_000"
+    ]
+  },
+  {
+    "id": "Q116",
+    "soru": "Fiil ehliyeti, ayırt etme gücü ve erginlik birlikte değerlendirildiğinde hukuki işlem yapma yetkisi nasıl belirlenir?",
+    "cevap": "Ayırt etme gücüne sahip ve ergin olan kişiler fiil ehliyetine sahiptir ve hukuki işlem yapabilir.",
+    "gold_context": "Türk Medeni Kanunu Madde 10 ve 13: Fiil ehliyeti için ayırt etme gücü ve erginlik gerekir.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_10__chunk_000"
+    ]
+  },
+  {
+    "id": "Q117",
+    "soru": "Ali, saldırıdan kaçma imkânı olduğu halde saldırgana zarar verirse bu durum meşru savunma kapsamında değerlendirilir mi?",
+    "cevap": "Hayır, zorunluluk unsuru bulunmadığı için meşru savunma kapsamında değerlendirilmez.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Meşru savunma zorunluluk şartına bağlıdır.",
+    "kaynak": "Türk Ceza Kanunu Madde 25",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q118",
+    "soru": "Ayşe, hukuka uygun bir idari işlemden zarar görürse idareden tazminat talep edebilir mi?",
+    "cevap": "Evet, bazı durumlarda kusursuz sorumluluk ilkesi gereği tazminat talep edilebilir.",
+    "gold_context": "İdare hukukunda kusursuz sorumluluk ilkesi gereği hukuka uygun işlemlerden doğan zararlar da tazmin edilebilir.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q119",
+    "soru": "Bir kişiye 29 Ekim 2026 Perşembe günü tebliğ edilen ve 2 günlük süreye tabi olan başvuru için son gün hangi tarihtir?",
+    "cevap": "31 Ekim 2026 Cumartesi günüdür.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren işlemeye başlar.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q120",
+    "soru": "Kast ile doğrudan kast arasındaki temel fark nedir?",
+    "cevap": "Doğrudan kast, sonucun kesin olarak istenmesini ifade ederken kast genel olarak sonucu bilerek ve isteyerek gerçekleştirmeyi ifade eder.",
+    "gold_context": "Türk Ceza Kanunu Madde 21: Kast kavramı farklı türlere ayrılır.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "hard",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q121",
+    "soru": "Anayasaya göre yürütme yetkisi ve görevi kim tarafından kullanılır?",
+    "cevap": "Cumhurbaşkanı tarafından kullanılır ve yerine getirilir.",
+    "gold_context": "Anayasa Madde 8: Yürütme yetkisi ve görevi Cumhurbaşkanı tarafından kullanılır.",
+    "kaynak": "Anayasa Madde 8",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_8__chunk_000"
+    ]
+  },
+  {
+    "id": "Q122",
+    "soru": "Ceza hukukunda bilinçli taksir neyi ifade eder?",
+    "cevap": "Failin sonucu öngörmesine rağmen sonucu istemeyerek fiili işlemesidir.",
+    "gold_context": "Türk Ceza Kanunu Madde 22: Bilinçli taksirde kişi sonucu öngörür fakat istemez.",
+    "kaynak": "Türk Ceza Kanunu Madde 22",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q123",
+    "soru": "Medeni hukukta kişilik ne zaman başlar?",
+    "cevap": "Sağ ve tam doğumla başlar.",
+    "gold_context": "Türk Medeni Kanunu Madde 28: Kişilik, çocuğun sağ ve tam doğumuyla başlar.",
+    "kaynak": "Türk Medeni Kanunu Madde 28",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_28__chunk_000"
+    ]
+  },
+  {
+    "id": "Q124",
+    "soru": "İdari işlemlerin sebep unsuru neyi ifade eder?",
+    "cevap": "İdari işlemi doğuran hukuki ve fiili nedenleri ifade eder.",
+    "gold_context": "İdare hukukunda sebep unsuru işlemin dayandığı nedenleri ifade eder.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q125",
+    "soru": "Mülkiyet hakkı, kamu yararı ve ölçülülük ilkeleri birlikte değerlendirildiğinde devletin müdahalesi hangi şartlara bağlıdır?",
+    "cevap": "Müdahale kanuna dayanmalı, kamu yararına yönelik olmalı ve ölçülü olmalıdır.",
+    "gold_context": "Anayasa Madde 13 ve 35: Mülkiyet hakkı kamu yararı amacıyla ve ölçülülük ilkesine uygun sınırlandırılabilir.",
+    "kaynak": "Anayasa Madde 13, 35",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6b4ecad37d__madde_35__chunk_000"
+    ]
+  },
+  {
+    "id": "Q126",
+    "soru": "Kast, taksir ve kusur ilkesi birlikte değerlendirildiğinde ceza sorumluluğu nasıl belirlenir?",
+    "cevap": "Ceza sorumluluğu kast veya taksir şeklinde ortaya çıkan kusura dayanır.",
+    "gold_context": "Türk Ceza Hukuku: Kusur ilkesi, kast ve taksir üzerinden belirlenir.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q127",
+    "soru": "Ali, kendisine yönelik saldırıyı durdurmak için gerekli olandan biraz daha fazla güç kullanırsa bu durumda hukuki sonuç ne olur?",
+    "cevap": "Meşru savunma sınırının aşılması söz konusu olabilir ve fail sorumlu tutulabilir.",
+    "gold_context": "Türk Ceza Kanunu Madde 27: Meşru savunmada sınırın aşılması durumunda sorumluluk doğabilir.",
+    "kaynak": "Türk Ceza Kanunu Madde 27",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__f2216a0f35__madde_27__chunk_000"
+    ]
+  },
+  {
+    "id": "Q128",
+    "soru": "Ayşe, hukuka aykırı bir idari işlem nedeniyle zarar görürse hangi yola başvurabilir?",
+    "cevap": "İptal davası açabilir ve ayrıca tam yargı davası ile tazminat talep edebilir.",
+    "gold_context": "İdare hukukunda hukuka aykırı işlemler iptal edilebilir ve zararlar tam yargı davası ile giderilebilir.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q129",
+    "soru": "Bir kişiye 30 Ekim 2026 Cuma günü tebliğ edilen ve 2 günlük süreye tabi olan başvuru için son gün hangi tarihtir? (31 Ekim Cumartesi, 1 Kasım Pazar)",
+    "cevap": "2 Kasım 2026 Pazartesi günüdür.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren işlemeye başlar ve son gün tatil ise süre ilk iş günü sona erer.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q130",
+    "soru": "Doğrudan kast ile olası kast arasındaki temel fark nedir?",
+    "cevap": "Doğrudan kastta sonuç kesin olarak istenirken, olası kastta sonuç kabullenilir.",
+    "gold_context": "Türk Ceza Kanunu Madde 21: Kast türleri farklı şekillerde ortaya çıkar.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "hard",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q131",
+    "soru": "Anayasaya göre yargı yetkisi kim adına kullanılır?",
+    "cevap": "Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.",
+    "gold_context": "Anayasa Madde 9: Yargı yetkisi Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.",
+    "kaynak": "Anayasa Madde 9",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_9__chunk_000"
+    ]
+  },
+  {
+    "id": "Q132",
+    "soru": "Ceza hukukunda taksirli suç neyi ifade eder?",
+    "cevap": "Dikkat ve özen yükümlülüğüne aykırılık sonucu istemeden suç işlenmesini ifade eder.",
+    "gold_context": "Türk Ceza Kanunu Madde 22: Taksirle işlenen suçlarda dikkat ve özen yükümlülüğüne aykırılık söz konusudur.",
+    "kaynak": "Türk Ceza Kanunu Madde 22",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q133",
+    "soru": "Medeni hukukta vesayet altına alınma hangi durumlarda söz konusu olur?",
+    "cevap": "Kişinin fiil ehliyetinin bulunmaması veya kısıtlı olması durumunda vesayet altına alınabilir.",
+    "gold_context": "Türk Medeni Kanunu: Vesayet, korunmaya muhtaç kişiler için uygulanır.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q134",
+    "soru": "İdari işlemlerde yetki unsuru neyi ifade eder?",
+    "cevap": "İşlemi yapmaya yetkili olan idari makamı ifade eder.",
+    "gold_context": "İdare hukukunda yetki unsuru işlemi yapan makamı ifade eder.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q135",
+    "soru": "Temel hakların sınırlandırılması, ölçülülük ve olağanüstü hal hükümleri birlikte değerlendirildiğinde devletin yetkisi nasıl belirlenir?",
+    "cevap": "Devlet, olağanüstü hallerde daha geniş sınırlamalar yapabilir ancak çekirdek haklara dokunamaz ve ölçülülük ilkesine uymak zorundadır.",
+    "gold_context": "Anayasa Madde 13 ve 15: Olağanüstü hallerde haklar sınırlanabilir ancak bazı haklar dokunulamazdır.",
+    "kaynak": "Anayasa Madde 13, 15",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q136",
+    "soru": "Fiil ehliyeti, ayırt etme gücü ve kısıtlılık birlikte değerlendirildiğinde bir kişinin hukuki işlemlerinin geçerliliği nasıl belirlenir?",
+    "cevap": "Ayırt etme gücüne sahip olmayan veya kısıtlı kişiler bazı işlemleri yapamaz veya sınırlı şekilde yapabilir.",
+    "gold_context": "Türk Medeni Kanunu: Fiil ehliyeti ayırt etme gücü ve kısıtlılık durumuna göre belirlenir.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_14__chunk_000"
+    ]
+  },
+  {
+    "id": "Q137",
+    "soru": "Ali, kendisine saldıran kişiyi etkisiz hale getirdikten sonra olay yerinden kaçmayıp saldırgana zarar vermeye devam ederse hukuki durum nasıl değerlendirilir?",
+    "cevap": "Saldırı sona erdiği için bu aşamadan sonraki fiiller meşru savunma kapsamında değerlendirilemez.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Meşru savunma yalnızca saldırıyı defetmek için geçerlidir.",
+    "kaynak": "Türk Ceza Kanunu Madde 25",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__a1e0f1213d__madde_4__chunk_000"
+    ]
+  },
+  {
+    "id": "Q138",
+    "soru": "Ayşe, hukuka uygun bir idari işlem nedeniyle zarar gördüğünde önce iptal davası açmadan doğrudan tazminat talep edebilir mi?",
+    "cevap": "Evet, bazı durumlarda doğrudan tam yargı davası açabilir.",
+    "gold_context": "İdare hukukunda tam yargı davası ile doğrudan tazminat talep edilebilir.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q139",
+    "soru": "Bir kişiye 23 Nisan 2026 Perşembe günü (resmi tatil) tebliğ edilen ve 3 günlük süreye tabi olan başvuru için son gün hangi tarihtir?",
+    "cevap": "27 Nisan 2026 Pazartesi günüdür.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren başlar ve son gün tatil ise süre ilk iş günü sona erer.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "very hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q140",
+    "soru": "Bilinçli taksir ile olası kast arasındaki temel fark nedir?",
+    "cevap": "Bilinçli taksirde fail sonucu istemezken, olası kastta sonucu kabullenir.",
+    "gold_context": "Türk Ceza Kanunu Madde 21 ve 22: Olası kast ve bilinçli taksir farklıdır.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "hard",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_borclar_kanunu__a96b3220e9__madde_646__chunk_000"
+    ]
+  },
+  {
+    "id": "Q141",
+    "soru": "Anayasaya göre kanunlar hangi kurala aykırı olamaz?",
+    "cevap": "Anayasaya aykırı olamaz.",
+    "gold_context": "Anayasa Madde 11: Kanunlar Anayasaya aykırı olamaz.",
+    "kaynak": "Anayasa Madde 11",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_11__chunk_000"
+    ]
+  },
+  {
+    "id": "Q142",
+    "soru": "Ceza hukukunda suçun unsurlarından biri olan hukuka aykırılık neyi ifade eder?",
+    "cevap": "Fiilin hukuk düzenine aykırı olmasını ifade eder.",
+    "gold_context": "Ceza hukukunda suçun unsurlarından biri hukuka aykırılıktır.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q143",
+    "soru": "Medeni hukukta gaiplik kararı hangi durumda verilir?",
+    "cevap": "Kişinin ölüm tehlikesi içinde kaybolması veya uzun süre haber alınamaması halinde verilir.",
+    "gold_context": "Türk Medeni Kanunu: Gaiplik kararı ölüm tehlikesi veya uzun süre haber alınamaması durumunda verilir.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q144",
+    "soru": "İdari işlemlerin iptal edilmesi neyi ifade eder?",
+    "cevap": "Hukuka aykırı idari işlemin yargı kararı ile ortadan kaldırılmasıdır.",
+    "gold_context": "İdare hukukunda iptal, hukuka aykırı işlemin ortadan kaldırılmasıdır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q145",
+    "soru": "Temel hakların sınırlandırılması, hukuk devleti ve yargı denetimi birlikte değerlendirildiğinde bireyler için hangi güvence ortaya çıkar?",
+    "cevap": "Hak sınırlamaları yargı denetimine tabi olup keyfi müdahaleler önlenir.",
+    "gold_context": "Anayasa Madde 13 ve 125: Hak sınırlamaları yargı denetimine tabidir.",
+    "kaynak": "Anayasa Madde 13, 125",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q146",
+    "soru": "Kusur ilkesi, kast ve taksir birlikte değerlendirildiğinde failin sorumluluğu nasıl belirlenir?",
+    "cevap": "Failin kast veya taksir şeklinde kusurunun bulunması halinde sorumluluğu doğar.",
+    "gold_context": "Ceza hukuku: Kusur ilkesi kast ve taksir üzerinden belirlenir.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q147",
+    "soru": "Ali, saldırıyı durdurmak için gerekli savunmayı yaptıktan sonra paniğe kapılarak saldırgana zarar vermeye devam ederse bu durum nasıl değerlendirilir?",
+    "cevap": "Meşru savunma sınırının korku ve heyecanla aşılması söz konusu olabilir.",
+    "gold_context": "Türk Ceza Kanunu Madde 27: Meşru savunmada sınırın aşılması korku ve heyecanla olabilir.",
+    "kaynak": "Türk Ceza Kanunu Madde 27",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__f2216a0f35__madde_27__chunk_000"
+    ]
+  },
+  {
+    "id": "Q148",
+    "soru": "Ayşe, hukuka aykırı bir idari işlem nedeniyle zarar gördüğünde hem iptal hem tazminat talebinde bulunabilir mi?",
+    "cevap": "Evet, iptal davası açabilir ve ayrıca tam yargı davası ile tazminat talep edebilir.",
+    "gold_context": "İdare hukukunda iptal ve tam yargı davaları birlikte veya ayrı açılabilir.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q149",
+    "soru": "Bir kişiye 30 Ağustos 2026 Pazar günü (resmi tatil) tebliğ edilen ve 1 günlük süreye tabi olan başvuru için son gün hangi tarihtir?",
+    "cevap": "1 Eylül 2026 Salı günüdür.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren başlar ve son gün tatil ise ilk iş gününe uzar.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "very hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q150",
+    "soru": "Taksir ile bilinçli taksir arasındaki temel fark nedir?",
+    "cevap": "Bilinçli taksirde fail sonucu öngörürken, taksirde sonucu öngörmez.",
+    "gold_context": "Türk Ceza Kanunu Madde 22: Taksir ve bilinçli taksir farklıdır.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "hard",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_borclar_kanunu__a96b3220e9__madde_647__chunk_000"
+    ]
+  },
+  {
+    "id": "Q151",
+    "soru": "Anayasaya göre herkes hangi hak bakımından kanun önünde eşittir?",
+    "cevap": "Herkes, dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin kanun önünde eşittir.",
+    "gold_context": "Anayasa Madde 10: Herkes, dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin kanun önünde eşittir.",
+    "kaynak": "Anayasa Madde 10",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_10__chunk_000"
+    ]
+  },
+  {
+    "id": "Q152",
+    "soru": "Ceza hukukunda teşebbüs hangi durumda söz konusu olur?",
+    "cevap": "Kişi işlemeyi kastettiği suçu elverişli hareketlerle doğrudan doğruya icraya başlayıp elinde olmayan nedenlerle tamamlayamazsa teşebbüs söz konusu olur.",
+    "gold_context": "Türk Ceza Kanunu Madde 35: Kişi, işlemeyi kastettiği suçu elverişli hareketlerle doğrudan doğruya icraya başlayıp da elinde olmayan nedenlerle tamamlayamaz ise teşebbüsten dolayı sorumlu tutulur.",
+    "kaynak": "Türk Ceza Kanunu Madde 35",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__9d49256534__madde_35__chunk_000"
+    ]
+  },
+  {
+    "id": "Q153",
+    "soru": "Borçlar hukukunda sözleşme hangi anda kurulur?",
+    "cevap": "Sözleşme, tarafların karşılıklı ve birbirine uygun irade açıklamalarıyla kurulur.",
+    "gold_context": "Türk Borçlar Kanunu Madde 1: Sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamalarıyla kurulur.",
+    "kaynak": "Türk Borçlar Kanunu Madde 1",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_borclar_kanunu__c954d31b15__madde_1__chunk_000"
+    ]
+  },
+  {
+    "id": "Q154",
+    "soru": "İdari işlemlere karşı yargı yolunun açık olması hangi anayasal güvenceyi ifade eder?",
+    "cevap": "İdarenin her türlü eylem ve işlemlerine karşı yargı yolunun açık olması güvencesini ifade eder.",
+    "gold_context": "Anayasa Madde 125: İdarenin her türlü eylem ve işlemlerine karşı yargı yolu açıktır.",
+    "kaynak": "Anayasa Madde 125",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__15132015ef__madde_461__chunk_000"
+    ]
+  },
+  {
+    "id": "Q155",
+    "soru": "Mülkiyet hakkı ile temel hakların sınırlandırılması birlikte değerlendirildiğinde devlet müdahalesinin hukuka uygun olması için hangi şartlar gerekir?",
+    "cevap": "Müdahale kanuna dayanmalı, kamu yararı amacı taşımalı ve ölçülülük ilkesine uygun olmalıdır.",
+    "gold_context": "Anayasa Madde 13 ve 35: Temel hak ve hürriyetler ancak kanunla sınırlanabilir; mülkiyet hakkı kamu yararı amacıyla ve kanunla sınırlanabilir.",
+    "kaynak": "Anayasa Madde 13, 35",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6b4ecad37d__madde_35__chunk_000"
+    ]
+  },
+  {
+    "id": "Q156",
+    "soru": "Fiil ehliyeti, erginlik ve ayırt etme gücü birlikte değerlendirildiğinde bir kişinin hukuki işlem yapabilmesi için hangi şartlar aranır?",
+    "cevap": "Kişinin ayırt etme gücüne sahip, ergin ve kısıtlı olmaması gerekir.",
+    "gold_context": "Türk Medeni Kanunu Madde 10: Ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişi fiil ehliyetine sahiptir.",
+    "kaynak": "Türk Medeni Kanunu Madde 10",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_10__chunk_000"
+    ]
+  },
+  {
+    "id": "Q157",
+    "soru": "Ali, bir başkasına yönelen haksız saldırıyı durdurmak için zor kullanırsa bu durum hangi şartlarda meşru savunma sayılır?",
+    "cevap": "Saldırıyı defetmek için zorunlu ve orantılı bir savunma yapılmışsa meşru savunma sayılır.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Gerek kendisine gerek başkasına yönelik haksız bir saldırıyı defetmek zorunluluğu ile işlenen fiillerden dolayı ceza verilmez.",
+    "kaynak": "Türk Ceza Kanunu Madde 25",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__a1fc21becd__madde_25__chunk_000"
+    ]
+  },
+  {
+    "id": "Q158",
+    "soru": "Ayşe, hukuka aykırı bir idari işlem nedeniyle doğrudan malvarlığı zararı gördüyse hangi dava yoluna başvurabilir?",
+    "cevap": "İptal davası açabileceği gibi tam yargı davası ile tazminat da talep edebilir.",
+    "gold_context": "İdare hukukunda hukuka aykırı işlemlere karşı iptal davası açılabilir; bu işlemlerden doğan zararlar tam yargı davası ile talep edilebilir.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q159",
+    "soru": "Bir kişiye 14 Mayıs 2026 Perşembe günü tebliğ edilen ve 2 günlük süreye tabi olan başvuru için son gün hangi tarihtir? (16 Mayıs Cumartesi)",
+    "cevap": "18 Mayıs 2026 Pazartesi günüdür.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren işlemeye başlar ve son gün tatil ise süre ilk iş günü sona erer.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q160",
+    "soru": "Meşru savunma ile zorunluluk hali arasındaki temel fark nedir?",
+    "cevap": "Meşru savunmada haksız bir saldırıyı defetme söz konusuyken, zorunluluk halinde ağır ve muhakkak bir tehlikeden korunma söz konusudur.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Meşru savunma haksız saldırıya karşı, zorunluluk hali ise ağır ve muhakkak bir tehlikeden korunmak için söz konusu olur.",
+    "kaynak": "Türk Ceza Kanunu Madde 25",
+    "difficulty": "hard",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__f2216a0f35__madde_28__chunk_000"
+    ]
+  },
+  {
+    "id": "Q161",
+    "soru": "Anayasaya göre temel hak ve hürriyetler hangi amaçlarla sınırlandırılabilir?",
+    "cevap": "Temel hak ve hürriyetler yalnızca Anayasada belirtilen sebeplerle ve kanunla sınırlandırılabilir.",
+    "gold_context": "Anayasa Madde 13: Temel hak ve hürriyetler yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplerle ve ancak kanunla sınırlanabilir.",
+    "kaynak": "Anayasa Madde 13",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_13__chunk_000"
+    ]
+  },
+  {
+    "id": "Q162",
+    "soru": "Ceza hukukunda iştirak neyi ifade eder?",
+    "cevap": "Birden fazla kişinin bir suçu birlikte işlemesini ifade eder.",
+    "gold_context": "Türk Ceza Kanunu Madde 37: Suçu birlikte işleyen kişilerden her biri fail olarak sorumludur.",
+    "kaynak": "Türk Ceza Kanunu Madde 37",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__9d49256534__madde_37__chunk_000"
+    ]
+  },
+  {
+    "id": "Q163",
+    "soru": "Borçlar hukukunda temerrüt ne zaman gerçekleşir?",
+    "cevap": "Borçlu, borcunu zamanında ifa etmediğinde temerrüde düşer.",
+    "gold_context": "Türk Borçlar Kanunu: Borcun zamanında ifa edilmemesi temerrüt sonucunu doğurur.",
+    "kaynak": "Türk Borçlar Kanunu",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q164",
+    "soru": "İdari işlemlerin iptali hangi durumda mümkündür?",
+    "cevap": "İdari işlem hukuka aykırıysa iptal edilebilir.",
+    "gold_context": "İdare hukukunda hukuka aykırı işlemler iptal edilebilir.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q165",
+    "soru": "Temel hakların sınırlandırılması ile eşitlik ilkesi birlikte değerlendirildiğinde nasıl bir sonuç ortaya çıkar?",
+    "cevap": "Hak sınırlamaları herkes için eşit uygulanmalı ve ayrımcılık yapılmamalıdır.",
+    "gold_context": "Anayasa Madde 10 ve 13: Eşitlik ilkesi ve hakların kanunla sınırlanması birlikte değerlendirilir.",
+    "kaynak": "Anayasa Madde 10, 13",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q166",
+    "soru": "Kusur ilkesi ile haksız fiil sorumluluğu birlikte değerlendirildiğinde failin sorumluluğu nasıl belirlenir?",
+    "cevap": "Failin kusurlu olması halinde haksız fiil sorumluluğu doğar.",
+    "gold_context": "Türk Borçlar Kanunu Madde 49: Kusurlu ve hukuka aykırı fiil sorumluluk doğurur.",
+    "kaynak": "Türk Borçlar Kanunu Madde 49",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_bayragi_tuzugu__c67099cc06__madde_39__chunk_000"
+    ]
+  },
+  {
+    "id": "Q167",
+    "soru": "Ali, bir suçu işlemeye karar verip icra hareketlerine başlamadan önce vazgeçerse ceza sorumluluğu doğar mı?",
+    "cevap": "Hayır, icra hareketlerine başlanmadığı için ceza sorumluluğu doğmaz.",
+    "gold_context": "Türk Ceza Hukuku: Suçun oluşması için icra hareketlerine başlanması gerekir.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q168",
+    "soru": "Ayşe, hukuka uygun bir idari işlem nedeniyle zarar gördüğünde her durumda tazminat talep edebilir mi?",
+    "cevap": "Hayır, ancak belirli durumlarda kusursuz sorumluluk kapsamında tazminat talep edilebilir.",
+    "gold_context": "İdare hukukunda kusursuz sorumluluk belirli şartlarda uygulanır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q169",
+    "soru": "Bir kişiye 1 Kasım 2026 Pazar günü tebliğ edilen ve 1 günlük süreye tabi olan başvuru için son gün hangi tarihtir?",
+    "cevap": "3 Kasım 2026 Salı günüdür.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren başlar ve son gün tatil ise ilk iş gününe uzar.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q170",
+    "soru": "Teşebbüs ile tamamlanmış suç arasındaki temel fark nedir?",
+    "cevap": "Teşebbüste suç tamamlanamazken, tamamlanmış suçta tüm unsurlar gerçekleşmiştir.",
+    "gold_context": "Türk Ceza Kanunu Madde 35: Teşebbüs, suçun tamamlanamaması halidir.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "medium",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q171",
+    "soru": "Anayasaya göre Türkiye Cumhuriyeti'nin değiştirilemeyecek nitelikleri hangi maddede düzenlenmiştir?",
+    "cevap": "Anayasa'nın 2. maddesinde düzenlenmiştir.",
+    "gold_context": "Anayasa Madde 2: Türkiye Cumhuriyeti demokratik, laik ve sosyal bir hukuk devletidir.",
+    "kaynak": "Anayasa Madde 2",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_2__chunk_000"
+    ]
+  },
+  {
+    "id": "Q172",
+    "soru": "Ceza hukukunda hukuka uygunluk nedenleri neyi ifade eder?",
+    "cevap": "Fiilin suç oluşturmasına rağmen hukuka uygun kabul edilmesini sağlayan durumları ifade eder.",
+    "gold_context": "Türk Ceza Kanunu: Hukuka uygunluk nedenleri suçun oluşmasını engeller.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q173",
+    "soru": "Medeni hukukta mirasçılık sıfatı ne zaman kazanılır?",
+    "cevap": "Miras bırakanın ölümü ile kazanılır.",
+    "gold_context": "Türk Medeni Kanunu Madde 575: Miras ölümle açılır.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q174",
+    "soru": "İdari işlemlerin yürütmesinin durdurulması neyi ifade eder?",
+    "cevap": "İdari işlemin uygulanmasının geçici olarak durdurulmasını ifade eder.",
+    "gold_context": "İdare hukukunda yürütmenin durdurulması işlemin uygulanmasının geçici olarak durdurulmasıdır.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q175",
+    "soru": "Temel hakların sınırlandırılması, ölçülülük ve eşitlik ilkeleri birlikte değerlendirildiğinde nasıl bir denge kurulmalıdır?",
+    "cevap": "Sınırlamalar hem ölçülü olmalı hem de eşitlik ilkesine aykırı olmamalıdır.",
+    "gold_context": "Anayasa Madde 10 ve 13: Eşitlik ve ölçülülük ilkeleri birlikte uygulanır.",
+    "kaynak": "Anayasa Madde 10, 13",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q176",
+    "soru": "Kast, hukuka aykırılık ve kusur birlikte değerlendirildiğinde ceza sorumluluğu nasıl belirlenir?",
+    "cevap": "Fiilin hukuka aykırı olması ve failin kusurlu olması halinde ceza sorumluluğu doğar.",
+    "gold_context": "Ceza hukuku: Suç için hukuka aykırılık ve kusur gerekir.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q177",
+    "soru": "Ali, saldırıyı tamamen ortadan kaldırdıktan sonra saldırgana zarar vermeye devam eder ve bu sırada panik halindedir. Bu durumda hangi hukuki değerlendirme yapılır?",
+    "cevap": "Meşru savunma sona ermiş olup, korku ve heyecanla sınır aşımı hükümleri uygulanabilir.",
+    "gold_context": "Türk Ceza Kanunu Madde 25 ve 27: Meşru savunma ve sınırın aşılması düzenlenmiştir.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "very hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__f2216a0f35__madde_27__chunk_000"
+    ]
+  },
+  {
+    "id": "Q178",
+    "soru": "Ayşe, hukuka aykırı bir idari işlem nedeniyle zarar görmüş, ancak dava açma süresini kaçırmıştır. Bu durumda hangi hakları devam edebilir?",
+    "cevap": "İptal davası açamaz ancak şartları varsa tam yargı davası ile tazminat talep edebilir.",
+    "gold_context": "İdare hukukunda süreler hak düşürücüdür; bazı durumlarda tazminat talebi mümkündür.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "very hard",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q179",
+    "soru": "Bir kişiye 31 Aralık 2026 Perşembe günü tebliğ edilen ve 1 günlük süreye tabi olan başvuru için son gün hangi tarihtir? (1 Ocak resmi tatil)",
+    "cevap": "4 Ocak 2027 Pazartesi günüdür.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren başlar; resmi tatil ve hafta sonu durumunda süre ilk iş günü sona erer.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "very hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q180",
+    "soru": "Meşru savunma ile zorunluluk hali arasındaki en temel ayrım nedir?",
+    "cevap": "Meşru savunma haksız bir saldırıya karşıdır, zorunluluk hali ise bir tehlikeyi önlemek içindir.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Meşru savunma ve zorunluluk hali farklıdır.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "hard",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q181",
+    "soru": "Anayasaya göre Türkiye Devleti'nin resmi dili nedir?",
+    "cevap": "Türkçedir.",
+    "gold_context": "Anayasa Madde 3: Türkiye Devleti'nin dili Türkçedir.",
+    "kaynak": "Anayasa Madde 3",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__6773165eaa__madde_3__chunk_000"
+    ]
+  },
+  {
+    "id": "Q182",
+    "soru": "Ceza hukukunda suçta ve cezada kanunilik ilkesi neyi ifade eder?",
+    "cevap": "Bir fiilin suç sayılabilmesi ve cezalandırılabilmesi için kanunda açıkça düzenlenmiş olması gerekir.",
+    "gold_context": "Anayasa Madde 38: Suç ve cezalar kanunla konulur.",
+    "kaynak": "Anayasa Madde 38",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_ceza_kanunu__6f3e30b42e__madde_45__chunk_000"
+    ]
+  },
+  {
+    "id": "Q183",
+    "soru": "Medeni hukukta hak ehliyeti neyi ifade eder?",
+    "cevap": "Kişinin haklara ve borçlara sahip olabilme yeteneğini ifade eder.",
+    "gold_context": "Türk Medeni Kanunu: Her insanın hak ehliyeti vardır.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_8__chunk_000"
+    ]
+  },
+  {
+    "id": "Q184",
+    "soru": "Temel hakların sınırlandırılması, ölçülülük ve demokratik toplum düzeni birlikte değerlendirildiğinde hangi ilke ortaya çıkar?",
+    "cevap": "Sınırlamalar demokratik toplum düzeninin gereklerine uygun ve ölçülü olmalıdır.",
+    "gold_context": "Anayasa Madde 13: Sınırlamalar demokratik toplum düzeninin gereklerine uygun olmalıdır.",
+    "kaynak": "Anayasa Madde 13",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_anayasasi__7d8a0c3430__madde_13__chunk_000"
+    ]
+  },
+  {
+    "id": "Q185",
+    "soru": "Kusur ilkesi, hukuka aykırılık ve illiyet bağı birlikte değerlendirildiğinde suçun oluşması için hangi unsurlar gerekir?",
+    "cevap": "Fiilin hukuka aykırı olması, failin kusurlu olması ve fiil ile sonuç arasında illiyet bağı bulunması gerekir.",
+    "gold_context": "Ceza hukuku: Suçun oluşması için maddi ve manevi unsurlar gerekir.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q186",
+    "soru": "Fiil ehliyeti, ayırt etme gücü ve kısıtlılık birlikte değerlendirildiğinde bir kişinin yaptığı sözleşmenin geçerliliği nasıl belirlenir?",
+    "cevap": "Ayırt etme gücü yoksa işlem geçersizdir; kısıtlıysa belirli işlemler için temsil gerekir.",
+    "gold_context": "Türk Medeni Kanunu: Fiil ehliyeti ayırt etme gücü ve kısıtlılık durumuna göre belirlenir.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_medeni_kanunu__59a15873f9__madde_14__chunk_000"
+    ]
+  },
+  {
+    "id": "Q187",
+    "soru": "Ali, saldırıyı tamamen sona erdirdikten sonra saldırgana zarar verir ve bunu bilinçli olarak yapar. Bu durumda meşru savunma uygulanır mı?",
+    "cevap": "Hayır, saldırı sona erdiği için meşru savunma uygulanmaz ve fiil suç oluşturabilir.",
+    "gold_context": "Türk Ceza Kanunu Madde 25: Meşru savunma yalnızca saldırı devam ettiği sürece geçerlidir.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q188",
+    "soru": "Ayşe, hukuka uygun bir idari işlem nedeniyle zarar görmüş ve idarenin kusuru bulunmamaktadır. Bu durumda tazminat talep edebilir mi?",
+    "cevap": "Evet, kusursuz sorumluluk ilkesi kapsamında bazı durumlarda tazminat talep edilebilir.",
+    "gold_context": "İdare hukukunda kusursuz sorumluluk ilkesi uygulanabilir.",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q189",
+    "soru": "Ali, bir suçu işlemeye teşebbüs eder ancak sonradan kendi isteğiyle vazgeçer. Bu durumda ceza sorumluluğu nasıl belirlenir?",
+    "cevap": "Gönüllü vazgeçme halinde ceza verilmez veya azaltılabilir.",
+    "gold_context": "Türk Ceza Kanunu Madde 36: Gönüllü vazgeçme halinde ceza verilmez.",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q190",
+    "soru": "Bir kişiye 31 Aralık 2026 Perşembe günü tebliğ edilen ve 2 günlük süreye tabi olan başvuru için son gün hangi tarihtir? (1 Ocak resmi tatil, 2-3 Ocak hafta sonu)",
+    "cevap": "4 Ocak 2027 Pazartesi günüdür.",
+    "gold_context": "Süreler tebliğ tarihini izleyen günden itibaren başlar; resmi tatil ve hafta sonu durumunda süre ilk iş günü sona erer.",
+    "kaynak": "Usul Hukuku Genel İlkeler",
+    "difficulty": "very hard",
+    "type": "temporal",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q191",
+    "soru": "Olası kast, doğrudan kast ve bilinçli taksir arasındaki temel fark nedir?",
+    "cevap": "Doğrudan kastta sonuç istenir, olası kastta kabullenilir, bilinçli taksirde ise öngörülür fakat istenmez.",
+    "gold_context": "Türk Ceza Kanunu Madde 21 ve 22",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "very hard",
+    "type": "hard-negative",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turk_borclar_kanunu__a96b3220e9__madde_647__chunk_000"
+    ]
+  },
+  {
+    "id": "Q192",
+    "soru": "Anayasaya göre Türkiye Cumhuriyeti'nin başkenti neresidir?",
+    "cevap": "Ankara'dır.",
+    "gold_context": "Anayasa Madde 3: Başkenti Ankara'dır.",
+    "kaynak": "Anayasa Madde 3",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q193",
+    "soru": "Ceza hukukunda fail ile mağdurun aynı kişi olması mümkün müdür?",
+    "cevap": "Hayır, fail ve mağdur aynı kişi olamaz.",
+    "gold_context": "Ceza hukukunda suçta fail ve mağdur farklı kişilerdir.",
+    "kaynak": "Ceza Hukuku Genel İlkeler",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q194",
+    "soru": "Medeni hukukta mirasın reddi neyi ifade eder?",
+    "cevap": "Mirasçının mirası kabul etmemesini ifade eder.",
+    "gold_context": "Türk Medeni Kanunu: Miras reddedilebilir.",
+    "kaynak": "Türk Medeni Kanunu",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q195",
+    "soru": "Temel haklar, eşitlik ilkesi ve hukuk devleti birlikte değerlendirildiğinde bireyler için hangi koruma sağlanır?",
+    "cevap": "Bireyler keyfi uygulamalara karşı korunur ve hakları eşit şekilde güvence altına alınır.",
+    "gold_context": "Anayasa Madde 10 ve 2",
+    "kaynak": "Anayasa",
+    "difficulty": "medium",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q196",
+    "soru": "Kusur ilkesi, zarar ve illiyet bağı birlikte değerlendirildiğinde tazminat sorumluluğu nasıl belirlenir?",
+    "cevap": "Zararın meydana gelmesi, kusur bulunması ve illiyet bağı kurulması gerekir.",
+    "gold_context": "Türk Borçlar Kanunu Madde 49",
+    "kaynak": "Türk Borçlar Kanunu",
+    "difficulty": "hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q197",
+    "soru": "Ali, saldırı tehdidi altında olmamasına rağmen kendini savunma gerekçesiyle başkasına zarar verirse bu durum nasıl değerlendirilir?",
+    "cevap": "Haksız saldırı bulunmadığı için meşru savunma uygulanmaz.",
+    "gold_context": "Türk Ceza Kanunu Madde 25",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "medium",
+    "type": "scenario",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q198",
+    "soru": "Ayşe, idari işlemin iptali için süreyi kaçırmış ancak zarar görmüştür. Hangi yolu deneyebilir?",
+    "cevap": "Tam yargı davası ile tazminat talep edebilir.",
+    "gold_context": "İdare Hukuku",
+    "kaynak": "İdare Hukuku",
+    "difficulty": "hard",
+    "type": "scenario",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q199",
+    "soru": "Türk Medeni Kanunu'na göre dijital bilinç transferi ile kazanılan kişilik nasıl düzenlenmiştir?",
+    "cevap": "Bu konuda Türk Medeni Kanunu'nda herhangi bir düzenleme bulunmamaktadır.",
+    "gold_context": "Medeni Kanun'da dijital bilinç transferine ilişkin düzenleme yoktur.",
+    "kaynak": "Negative Query",
+    "difficulty": "very hard",
+    "type": "negative",
+    "answerable_from_corpus": false,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q200",
+    "soru": "Meşru savunma, zorunluluk hali ve hukuka uygunluk nedenleri birlikte değerlendirildiğinde hangi durumlarda ceza verilmez?",
+    "cevap": "Haksız saldırıya karşı savunma veya ağır tehlikeyi önleme gibi hukuka uygunluk nedenlerinin varlığında ceza verilmez.",
+    "gold_context": "Türk Ceza Kanunu Madde 25",
+    "kaynak": "Türk Ceza Kanunu",
+    "difficulty": "very hard",
+    "type": "multi-hop",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": []
+  },
+  {
+    "id": "Q201",
+    "soru": "Ceza Muhakemesi Kanunu'na göre şüphelinin üstü, eşyası ve konutu hangi şartlarda aranabilir?",
+    "cevap": "Yakalanabileceği veya suç delillerinin elde edilebileceği hususunda makul şüphe varsa şüphelinin üstü, eşyası, konutu, işyeri veya ona ait diğer yerler aranabilir.",
+    "gold_context": "CMK Madde 116: Yakalanabileceği veya suç delillerinin elde edilebileceği hususunda makul şüphe varsa; şüphelinin veya sanığın üstü, eşyası, konutu, işyeri veya ona ait diğer yerler aranabilir.",
+    "kaynak": "Ceza Muhakemesi Kanunu Madde 116",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "ceza_muhakemesi_kanunu__6139e9cc4f__full_text__chunk_000"
+    ]
+  },
+  {
+    "id": "Q202",
+    "soru": "Ceza Muhakemesi Kanunu'na göre gece vakti arama yapılabilir mi?",
+    "cevap": "Genel olarak konutta, işyerinde veya diğer kapalı yerlerde gece vaktinde arama yapılamaz. Ancak suçüstü veya gecikmesinde sakınca bulunan hâllerde gece araması yapılabilir.",
+    "gold_context": "CMK Madde 118: Konutta, işyerinde veya diğer kapalı yerlerde gece vaktinde arama yapılamaz. Suçüstü veya gecikmesinde sakınca bulunan hâller ile yakalanmış veya gözaltına alınmış olup da firar eden kişi veya tutuklu veya hükümlünün tekrar yakalanması amacıyla yapılan aramalarda bu hüküm uygulanmaz.",
+    "kaynak": "Ceza Muhakemesi Kanunu Madde 118",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "ceza_muhakemesi_kanunu__6139e9cc4f__full_text__chunk_001"
+    ]
+  },
+  {
+    "id": "Q203",
+    "soru": "Yargıtay Cumhuriyet Başsavcısının itiraz yetkisi hangi süre içinde kullanılmalıdır?",
+    "cevap": "İlâmın kendisine verildiği tarihten itibaren bir ay içinde Ceza Genel Kuruluna itiraz edebilir. Sanığın lehine itirazda süre aranmaz.",
+    "gold_context": "CMK Madde 308: Yargıtay Cumhuriyet Başsavcısı, re'sen veya istem üzerine, ilâmın kendisine verildiği tarihten itibaren bir ay içinde Ceza Genel Kuruluna itiraz edebilir. Sanığın lehine itirazda süre aranmaz.",
+    "kaynak": "Ceza Muhakemesi Kanunu Madde 308",
+    "difficulty": "hard",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "ceza_muhakemesi_kanunu__6d0a4ae4ff__madde_308__chunk_000"
+    ]
+  },
+  {
+    "id": "Q204",
+    "soru": "Kanun yararına bozma nedir ve hangi durumda uygulanır?",
+    "cevap": "İstinaf veya temyiz incelemesinden geçmeksizin kesinleşen karar veya hükümde hukuka aykırılık bulunduğu öğrenilirse Adalet Bakanlığı tarafından Yargıtay Cumhuriyet Başsavcılığına başvurularak bozma istenebilir.",
+    "gold_context": "CMK Madde 309: Hâkim veya mahkeme tarafından verilen ve istinaf veya temyiz incelemesinden geçmeksizin kesinleşen karar veya hükümde hukuka aykırılık bulunduğunu öğrenen Adalet Bakanlığı, o karar veya hükmün Yargıtayca bozulması istemini yasal nedenlerini belirterek Yargıtay Cumhuriyet Başsavcılığına yazılı olarak bildirir.",
+    "kaynak": "Ceza Muhakemesi Kanunu Madde 309",
+    "difficulty": "hard",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "ceza_muhakemesi_kanunu__b2c26caa6f__madde_309__chunk_000"
+    ]
+  },
+  {
+    "id": "Q205",
+    "soru": "İş Kanunu'na göre iş ve işçi bulmaya aracılık görevi kime aittir?",
+    "cevap": "Türkiye İş Kurumu ve bu hususta izin verilen özel istihdam bürolarınca yerine getirilir.",
+    "gold_context": "İş Kanunu Madde 90: İş arayanların elverişli oldukları işlere yerleştirilmeleri ve çeşitli işler için uygun işçiler bulunmasına aracılık görevi, Türkiye İş Kurumu ve bu hususta izin verilen özel istihdam bürolarınca yerine getirilir.",
+    "kaynak": "Türkiye Cumhuriyeti İş Kanunu Madde 90",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_is_kanunu__eb3e3586c6__madde_90__chunk_000"
+    ]
+  },
+  {
+    "id": "Q206",
+    "soru": "İş Kanunu'na göre çalışma hayatının denetim ve teftişi kimin tarafından yapılır?",
+    "cevap": "Çalışma ve Sosyal Güvenlik Bakanlığına bağlı iş müfettişlerince yapılır.",
+    "gold_context": "İş Kanunu Madde 91: Devlet, çalışma hayatı ile ilgili mevzuatın uygulanmasını izler, denetler ve teftiş eder. Bu ödev Çalışma ve Sosyal Güvenlik Bakanlığına bağlı ihtiyaca yetecek sayı ve özellikte teftiş ve denetlemeye yetkili iş müfettişlerince yapılır.",
+    "kaynak": "Türkiye Cumhuriyeti İş Kanunu Madde 91",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_is_kanunu__eb3e3586c6__madde_91__chunk_000"
+    ]
+  },
+  {
+    "id": "Q207",
+    "soru": "İş müfettişleri tarafından tutulan tutanakların ispat gücü nedir?",
+    "cevap": "Aksi kanıtlanıncaya kadar geçerlidir.",
+    "gold_context": "İş Kanunu Madde 92: Çalışma hayatını izleme, denetleme ve teftişe yetkili iş müfettişleri tarafından tutulan tutanaklar aksi kanıtlanıncaya kadar geçerlidir.",
+    "kaynak": "Türkiye Cumhuriyeti İş Kanunu Madde 92",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_is_kanunu__eb3e3586c6__madde_92__chunk_001"
+    ]
+  },
+  {
+    "id": "Q208",
+    "soru": "İş müfettişlerinin gizlilik yükümlülüğü neleri kapsar?",
+    "cevap": "İşverenin ve işyerinin meslek sırları, ekonomik ve ticari durumları ile kendilerine başvuran işçilerin isim ve kimliklerini gizli tutmakla yükümlüdürler.",
+    "gold_context": "İş Kanunu Madde 93: İş müfettişleri işverenin ve işyerinin meslek sırları ve şartları, ekonomik ve ticari hal ve durumları hakkında gördükleri ve öğrendikleri hususları tamamen gizli tutmak ve kendilerine başvuran veya ihbarda bulunan işçilerin isimlerini ve kimliklerini açıklamamakla yükümlüdürler.",
+    "kaynak": "Türkiye Cumhuriyeti İş Kanunu Madde 93",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "turkiye_cumhuriyeti_is_kanunu__eb3e3586c6__madde_93__chunk_000"
+    ]
+  },
+  {
+    "id": "Q209",
+    "soru": "Bilgi Edinme Kanunu'na göre bu kanunun uygulanmasında kusuru bulunan kamu görevlilerine ne yapılır?",
+    "cevap": "Tâbi oldukları mevzuatta yer alan disiplin cezaları uygulanır. İşledikleri fiillerin genel hükümler çerçevesinde ceza kovuşturması gerektirmesi saklıdır.",
+    "gold_context": "Bilgi Edinme Kanunu Madde 29: Bu Kanunun uygulanmasında ihmâli, kusuru veya kastı bulunan memurlar ve diğer kamu görevlileri hakkında tâbi oldukları mevzuatta yer alan disiplin cezaları uygulanır.",
+    "kaynak": "Bilgi Edinme Kanunu Madde 29",
+    "difficulty": "medium",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "bilgi_edinme_kanunu__e9418c01c3__madde_29__chunk_000"
+    ]
+  },
+  {
+    "id": "Q210",
+    "soru": "Bilgi Edinme Kanunu ile erişilen bilgi ve belgeler ticari amaçla kullanılabilir mi?",
+    "cevap": "Hayır, bu Kanunla erişilen bilgi ve belgeler ticarî amaçla çoğaltılamaz ve kullanılamaz.",
+    "gold_context": "Bilgi Edinme Kanunu Madde 29: Bu Kanunla erişilen bilgi ve belgeler ticarî amaçla çoğaltılamaz ve kullanılamaz.",
+    "kaynak": "Bilgi Edinme Kanunu Madde 29",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "bilgi_edinme_kanunu__e9418c01c3__madde_29__chunk_000"
+    ]
+  },
+  {
+    "id": "Q211",
+    "soru": "Bilgi Edinme Kanunu'nun amacı nedir?",
+    "cevap": "Demokratik ve şeffaf yönetimin gereği olan eşitlik, tarafsızlık ve açıklık ilkelerine uygun olarak kişilerin bilgi edinme hakkını kullanmalarına ilişkin esas ve usulleri düzenlemektir.",
+    "gold_context": "Bilgi Edinme Kanunu Madde 1: Bu Kanunun amacı; demokratik ve şeffaf yönetimin gereği olan eşitlik, tarafsızlık ve açıklık ilkelerine uygun olarak kişilerin bilgi edinme hakkını kullanmalarına ilişkin esas ve usulleri düzenlemektir.",
+    "kaynak": "Bilgi Edinme Kanunu Madde 1",
+    "difficulty": "easy",
+    "type": "definition",
+    "answerable_from_corpus": true,
+    "reference_chunk_ids": [
+      "bilgi_edinme_kanunu__2d175a0a7c__madde_1__chunk_000"
+    ]
+  }
+]

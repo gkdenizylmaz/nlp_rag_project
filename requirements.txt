@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+tqdm
+
+sentence-transformers
+faiss-cpu
+
+transformers
+torch
+
+rank-bm25
+
+python-dotenv
+
+rouge-score
+nltk
